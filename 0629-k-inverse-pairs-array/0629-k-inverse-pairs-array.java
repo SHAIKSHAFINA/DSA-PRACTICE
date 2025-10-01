@@ -1,22 +1,23 @@
 class Solution {
     public int kInversePairs(int n, int k) {
-        long[]prev=new long[k+1];
-        long[]curr=new long[k+1];
+        int MOD = 1_000_000_007;
+        long[] dp = new long[k + 1];
 
-       prev[0]=1;
-        long MOD=1000000007;
+        dp[0] = 1; // Base case: 1 way to have 0 inversions with 1 element
 
-        for(int i=2;i<=n;i++){
-            for(int j=0;j<=k;j++){
-                if(j==0) curr[j]=1;
-                else{
-                    curr[j] =(curr[j-1]+prev[j]-(j-i>=0 ? prev[j-i]:0)+MOD)%MOD;
-                }
+        for (int i = 2; i <= n; i++) {
+            long[] newDp = new long[k + 1];
+            newDp[0] = 1; // 0 inversions is always possible
+
+            for (int j = 1; j <= k; j++) {
+                // Formula: dp[i][j] = dp[i][j-1] + dp[i-1][j] - dp[i-1][j-i]
+                long sub = (j - i >= 0) ? dp[j - i] : 0;
+                newDp[j] = (newDp[j - 1] + dp[j] - sub + MOD) % MOD;
             }
-            long temp[]=prev;
-            prev=curr;
-            curr=temp;
+
+            dp = newDp; // Update dp for next iteration
         }
-        return (int)prev[k];
+
+        return (int) dp[k];
     }
 }
