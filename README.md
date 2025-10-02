@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0062-unique-paths) |
 | [0629-k-inverse-pairs-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0629-k-inverse-pairs-array) |
 ## Array
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0229-majority-element-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
