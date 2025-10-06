@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0229-majority-element-ii) |
+| [0792-binary-search](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0074-search-a-2d-matrix) |
+| [0792-binary-search](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0792-binary-search) |
 ## Matrix
 |  |
 | ------- |
