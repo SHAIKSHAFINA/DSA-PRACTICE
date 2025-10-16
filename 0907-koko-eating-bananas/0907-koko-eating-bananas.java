@@ -10,24 +10,24 @@ class Solution {
         int l=1,r=max;
         while(l<=r){
             int mid=l+(r-l)/2;
-            double x=func(piles,mid);
+            long x=func(piles,mid);
             
             if(x<=h){
-                ans=mid;
+                
                 r=mid-1;
             }
             else{
                 l=mid+1;
             }
         }
-    return ans;
+    return l;
 
     }
 
-    double func(int piles[],int h){
-        double t=0;
+    long func(int piles[],int h){
+        long t=0;
         for(int i=0;i<piles.length;i++){
-            t+=Math.ceil((double)piles[i]/(double)h);
+           t += (piles[i] + h - 1) / h;
         }
         return t;
     }
