@@ -3,13 +3,16 @@ class Solution {
         int n=bloomDay.length;
         int min=Integer.MAX_VALUE;
         int max=Integer.MIN_VALUE;
+
         if(n<m*k) return -1;
-        for(int i=0;i<n;i++){
-            min=Math.min(min,bloomDay[i]);
-            max=Math.max(max,bloomDay[i]);
+
+        for(int day:bloomDay){
+            if(day<min) min=day;
+            if(day>max) max=day;
         }
        
         int l=min,r=max,ans=-1;
+        
         while(l<=r){
             int mid=l+(r-l)/2;
             if(possible(bloomDay,mid,m,k)==true){
