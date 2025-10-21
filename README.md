@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0062-unique-paths) |
+| [0322-coin-change](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0322-coin-change) |
 | [0629-k-inverse-pairs-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0629-k-inverse-pairs-array) |
 ## Array
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0229-majority-element-ii) |
+| [0322-coin-change](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
