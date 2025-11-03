@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0203-remove-linked-list-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
