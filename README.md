@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0260-single-number-iii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0231-power-of-two) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
@@ -207,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
