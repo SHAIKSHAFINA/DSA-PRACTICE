@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0260-single-number-iii) |
 | [0322-coin-change](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Merge Sort
 |  |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
