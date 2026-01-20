@@ -4,31 +4,20 @@ class Solution {
         int[] arr=new int[n];
         Stack<Integer> st=new Stack<>();
 
-        for(int i=n-1;i>=0;i--){
-            while(!st.isEmpty() && nums[i]>=st.peek()){
+        for(int i=2*n-1;i>=0;i--){
+            while(!st.isEmpty() && nums[i%n]>=st.peek()){
                 st.pop();
             }
             if(st.isEmpty()){
-                arr[i]=-1;
+                arr[i%n]=-1;
             }
             else{
-                arr[i]=st.peek();
+                arr[i%n]=st.peek();
             }
-            st.push(nums[i]);
+            st.push(nums[i%n]);
         }
 
-        for(int i=n-1;i>=0;i--){
-            while(!st.isEmpty() && nums[i]>=st.peek()){
-                st.pop();
-            }
-            if(st.isEmpty()){
-                arr[i]=-1;
-            }
-            else{
-                arr[i]=st.peek();
-            }
-            st.push(nums[i]);
-        }
+       
         return arr;
 
     }
