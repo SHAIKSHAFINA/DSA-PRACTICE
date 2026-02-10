@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2047-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2104-sum-of-subarray-ranges) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2737-row-with-maximum-ones](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2737-row-with-maximum-ones) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2047-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0229-majority-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
