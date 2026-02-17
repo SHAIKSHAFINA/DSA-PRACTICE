@@ -1,30 +1,25 @@
 class Solution {
     public int thirdMax(int[] nums) {
         int n=nums.length;
-        Long first=null,sec=null,third=null;
 
-        for(int i=0;i<n;i++){
-            Long num=(long)nums[i];
+        PriorityQueue<Integer> pq=new PriorityQueue<>();
+        HashSet<Integer> sc=new HashSet<>();
+        for(int x:nums){
+            sc.add(x);
+        }
 
-            if ((first != null && num.equals(first)) ||
-                (sec != null && num.equals(sec)) ||
-                (third != null && num.equals(third))) {
-                continue;
-            }
-
-            if(first == null || num > first){
-                third=sec;
-                sec=first;
-                first=num;
-            }
-            else if(sec==null || num >sec){
-                third=sec;
-                sec=num;
-            }
-            else if(third==null || num >third){
-                third=num;
+        for(int val:sc){
+            pq.add(val);
+            if(pq.size() > 3){
+                pq.poll();
             }
         }
-        return third == null ? first.intValue() : third.intValue();
+
+        if(pq.size()<3){
+            while(pq.size() >1){
+                pq.poll();
+            }
+        }
+        return pq.peek();
     }
 }
