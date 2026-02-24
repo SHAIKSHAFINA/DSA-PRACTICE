@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0792-binary-search) |
+| [0846-hand-of-straights](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0846-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0907-koko-eating-bananas) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0692-top-k-frequent-words) |
+| [0846-hand-of-straights](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0992-subarrays-with-k-different-integers) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0414-third-maximum-number) |
 | [0658-find-k-closest-elements](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0692-top-k-frequent-words) |
+| [0846-hand-of-straights](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0973-k-closest-points-to-origin) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
+| [0846-hand-of-straights](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0846-hand-of-straights) |
 ## Prefix Sum
 |  |
 | ------- |
