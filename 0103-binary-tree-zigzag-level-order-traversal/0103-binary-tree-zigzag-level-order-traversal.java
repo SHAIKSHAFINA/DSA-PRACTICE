@@ -23,27 +23,26 @@ class Solution {
 
         while(!q.isEmpty()){
             int size=q.size();
-            ArrayList<Integer>l=new ArrayList<>();
+            LinkedList<Integer>l=new LinkedList<>();
             
             for(int i=0;i<size;i++){
                 TreeNode x=q.poll();
+                if(level%2==0){
+                    l.addLast(x.val);
+                }
+                else{
+                    l.addFirst(x.val);
+                }
                 if(x.left!=null){
                     q.add(x.left);
                 }
                 if(x.right!=null){
                     q.add(x.right);
                 }
-                l.add(x.val);
-
-            }
-            if(level%2==0){
-                sc.add(l);
-            }
-            else{
-                Collections.reverse(l);
-                sc.add(l);
+                
             }
             level++;
+            sc.add(l);
             
         }
         return sc;
