@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0374-guess-number-higher-or-lower) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0701-insert-into-a-binary-search-tree) |
