@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0973-k-closest-points-to-origin) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0404-sum-of-left-leaves) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -454,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -473,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
