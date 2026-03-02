@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
 | [0322-coin-change](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0231-power-of-two) |
 | [0973-k-closest-points-to-origin](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0973-k-closest-points-to-origin) |
@@ -490,4 +492,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0701-insert-into-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
