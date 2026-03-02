@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0162-find-peak-element) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0846-hand-of-straights](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
