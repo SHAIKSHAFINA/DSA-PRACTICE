@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
 | [0322-coin-change](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0072-edit-distance) |
 | [0424-longest-repeating-character-replacement](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0692-top-k-frequent-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
