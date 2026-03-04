@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
