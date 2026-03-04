@@ -8,11 +8,19 @@ class MedianFinder {
     }
     
     public void addNum(int num) {
+        if(maxH.isEmpty() || num< maxH.peek()){
+            maxH.add(num);
+        }
+        else{
+            minH.add(num);
+        }
+       
+        if(Math.abs(minH.size()-maxH.size()) >1){
+            minH.add(maxH.poll());
+           
+        }
 
-        maxH.add(num);
-        minH.add(maxH.poll());
-
-         if(minH.size() > maxH.size()){
+        else if(minH.size() > maxH.size()){
             maxH.add(minH.poll());
         }
     }
@@ -23,6 +31,7 @@ class MedianFinder {
             return (double)(minH.peek()+maxH.peek())/2;
         }
 
+        
         return maxH.peek();
     }
 }
