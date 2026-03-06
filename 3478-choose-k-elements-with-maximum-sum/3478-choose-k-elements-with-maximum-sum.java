@@ -28,7 +28,7 @@ class Solution {
             int j=p.val2;
 
 
-            if(i>0 && arr[i].val1 ==arr[i-1].val1){
+            if(i>0 && x ==arr[i-1].val1){
                 f[idx]=f[arr[i-1].index];
             }
             else{
