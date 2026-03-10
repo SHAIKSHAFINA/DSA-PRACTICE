@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2737-row-with-maximum-ones) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3478-choose-k-elements-with-maximum-sum) |
+| [3861-minimum-capacity-box](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3861-minimum-capacity-box) |
 ## Binary Search
 |  |
 | ------- |
