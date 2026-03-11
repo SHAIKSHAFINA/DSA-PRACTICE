@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 | [0629-k-inverse-pairs-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0629-k-inverse-pairs-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0503-next-greater-element-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0658-find-k-closest-elements) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0846-hand-of-straights) |
