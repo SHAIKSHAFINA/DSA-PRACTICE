@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0078-subsets) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
