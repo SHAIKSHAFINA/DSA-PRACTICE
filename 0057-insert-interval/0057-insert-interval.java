@@ -2,30 +2,26 @@ class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {
         int n=intervals.length;
         ArrayList<int[]> sc=new ArrayList<>();
+        int i=0;
 
-        for(int i=0;i<n;i++){
-                sc.add(intervals[i]);
+        while(i<n && intervals[i][1] < newInterval[0]){
+            sc.add(intervals[i]);
+            i++;
+        }
+
+        while(i<n && intervals[i][0] <= newInterval[1]){
+            newInterval[0]=Math.min(intervals[i][0],newInterval[0]);
+            newInterval[1]=Math.max(intervals[i][1],newInterval[1]);
+            i++;
+
         }
         sc.add(newInterval);
 
-        Collections.sort(sc , (a,b)->a[0]-b[0]);
-
-        int lastEnd=sc.get(0)[1];
-        int lastStart=sc.get(0)[0];
-
-        ArrayList<int[]> x=new ArrayList<>();
-
-        for(int i=1;i<sc.size();i++){
-            if(sc.get(i)[0] <=lastEnd){
-                lastEnd=Math.max(lastEnd,sc.get(i)[1]);
-            }
-            else{
-                x.add(new int[]{lastStart,lastEnd});
-                lastStart=sc.get(i)[0];
-                lastEnd=sc.get(i)[1];
-            }
+        while(i<n){
+            sc.add(intervals[i]);
+            i++;
         }
-        x.add(new int[]{lastStart,lastEnd});
-        return x.toArray(new int[x.size()][]);
+
+        return sc.toArray(new int[sc.size()][]);
     }
 }
