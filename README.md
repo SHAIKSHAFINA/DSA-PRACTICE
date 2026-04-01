@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1922-count-good-numbers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1922-count-good-numbers) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1922-count-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
