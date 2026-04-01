@@ -8,11 +8,11 @@ class Solution {
             x=1/x;
             N=-N;
         }
-        return (double)(power(x,n));
+        return (double)(power(x,N));
 
     }
 
-    double power(double x,int n){
+    double power(double x,long n){
         if(x==0) return 0;
         if(n==0) return 1;
         double half=power(x,n/2);
