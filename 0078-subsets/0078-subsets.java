@@ -4,32 +4,29 @@ class Solution {
         List<List<Integer>> sc=new ArrayList<>();
         
         ArrayList<Integer> op=new ArrayList<>();
-        solve(nums,op,sc);
+        solve(nums,0,op,sc);
     
         return sc;
 
     }
 
-    void solve(int []ip,ArrayList<Integer> op,List<List<Integer>> sc){
-        if(ip.length==0){
+    void solve(int []ip,int idx ,ArrayList<Integer> op,List<List<Integer>> sc){
+        if(idx==ip.length){
             List<Integer> x=new ArrayList<>(op);
             sc.add(x);
             return;
         }
 
-        int i=ip[0];
-        int idx=0;
-
-        int a[]=Arrays.copyOfRange(ip,1,ip.length);
-        op.add(i);
-        solve(a,op,sc);
+        int curr=ip[idx];
+        
+        op.add(curr);
+        solve(ip,idx+1,op,sc);
         op.remove(op.size()-1);
 
-        while(idx < ip.length && ip[idx]==i){
+        while(idx+1 < ip.length && ip[idx]==ip[idx+1]){
             idx++;
         }
-        int y[]=Arrays.copyOfRange(ip,idx,ip.length);
-        solve(y,op,sc);
+        solve(ip,idx+1,op,sc);
         return;
     }
 }
