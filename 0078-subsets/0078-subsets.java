@@ -12,7 +12,7 @@ class Solution {
 
     void solve(int []ip,ArrayList<Integer> op,List<List<Integer>> sc){
         if(ip.length==0){
-            List<Integer> x=new ArrayList(op);
+            List<Integer> x=new ArrayList<>(op);
             sc.add(x);
             return;
         }
