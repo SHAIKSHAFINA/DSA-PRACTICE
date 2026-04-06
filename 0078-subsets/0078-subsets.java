@@ -1,32 +1,24 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        Arrays.sort(nums);
-        List<List<Integer>> sc=new ArrayList<>();
+        Arrays.sort(nums); 
         
-        ArrayList<Integer> op=new ArrayList<>();
-        solve(nums,0,op,sc);
-    
-        return sc;
-
+        List<List<Integer>> res = new ArrayList<>();
+        backtrack(0, nums, new ArrayList<>(), res);
+        
+        return res;
     }
 
-    void solve(int []ip,int idx ,ArrayList<Integer> op,List<List<Integer>> sc){
-        if(idx==ip.length){
-            List<Integer> x=new ArrayList<>(op);
-            sc.add(x);
-            return;
-        }
-
-        int curr=ip[idx];
+    void backtrack(int start, int[] nums, List<Integer> curr, List<List<Integer>> res) {
         
-        op.add(curr);
-        solve(ip,idx+1,op,sc);
-        op.remove(op.size()-1);
+        res.add(new ArrayList<>(curr));
 
-        while(idx+1 < ip.length && ip[idx]==ip[idx+1]){
-            idx++;
+        for (int i = start; i < nums.length; i++) {
+
+            if (i > start && nums[i] == nums[i - 1]) continue;
+
+            curr.add(nums[i]);
+            backtrack(i + 1, nums, curr, res);
+            curr.remove(curr.size() - 1);
         }
-        solve(ip,idx+1,op,sc);
-        return;
     }
 }
