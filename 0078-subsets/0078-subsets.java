@@ -1,18 +1,35 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
+        Arrays.sort(nums);
         List<List<Integer>> sc=new ArrayList<>();
-        int n=nums.length;
-        int subset=1<<n;
-
-        for(int i=0;i<=subset-1;i++){
-            List<Integer> mp=new ArrayList<>();
-            for(int j=0;j<=n-1;j++){
-                if((i & (1<<j))!=0){
-                    mp.add(nums[j]);
-                }
-            }
-            sc.add(mp);
-        }
+        
+        ArrayList<Integer> op=new ArrayList<>();
+        solve(nums,op,sc);
+    
         return sc;
+
+    }
+
+    void solve(int []ip,ArrayList<Integer> op,List<List<Integer>> sc){
+        if(ip.length==0){
+            List<Integer> x=new ArrayList(op);
+            sc.add(x);
+            return;
+        }
+
+        int i=ip[0];
+        int idx=0;
+
+        int a[]=Arrays.copyOfRange(ip,1,ip.length);
+        op.add(i);
+        solve(a,op,sc);
+        op.remove(op.size()-1);
+
+        while(idx < ip.length && ip[idx]==i){
+            idx++;
+        }
+        int y[]=Arrays.copyOfRange(ip,idx,ip.length);
+        solve(y,op,sc);
+        return;
     }
 }
