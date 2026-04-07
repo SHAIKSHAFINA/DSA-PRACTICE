@@ -1,29 +1,32 @@
 class Solution {
     public List<String> letterCasePermutation(String s) {
         List<String> sc=new ArrayList<>();
-        solve(s,"",sc);
+        solve(s,new StringBuilder(),sc);
         return sc;
 
     }
 
-    void solve(String ip,String op, List<String> sc){
+    void solve(String ip,StringBuilder op, List<String> sc){
         if(ip.length()==0){
-            sc.add(op);
+            sc.add(op.toString());
             return;
         }
 
         char ch=ip.charAt(0);
         String rem=ip.substring(1);
         if(Character.isLetter(ch)){
-            String op1=op+Character.toLowerCase(ch);
-            String op2=op+Character.toUpperCase(ch);
-
-            solve(rem,op1,sc);
-            solve(rem,op2,sc);
+            op.append(Character.toLowerCase(ch));
+            solve(rem,op,sc);
+            op.deleteCharAt(op.length()-1);
+            
+            op.append(Character.toUpperCase(ch));
+            solve(rem,op,sc);
+            op.deleteCharAt(op.length()-1);
         }
         else{
-            String op1=op+ch;
-            solve(rem,op1,sc);
+            op.append(ch);
+            solve(rem,op,sc);
+            op.deleteCharAt(op.length()-1);
         }
         return;
 
