@@ -2,24 +2,26 @@ class Solution {
     public List<String> generateParenthesis(int n) {
         int open=n,close=n;
         List<String> sc=new ArrayList<>();
-        solve(open,close,"",sc);
+        solve(open,close,new StringBuilder(),sc);
         return sc;
     }
 
-    void solve(int open,int close, String op,List<String> sc){
+    void solve(int open,int close, StringBuilder op,List<String> sc){
         if(open==0 && close==0){
-            sc.add(op);
+            sc.add(op.toString());
             return;
         }
 
         if(open!=0){
-            String op1=op + '(';
-            solve(open-1,close,op1,sc);
+            op.append('(');
+            solve(open-1,close,op,sc);
+            op.deleteCharAt(op.length()-1);
         }
 
         if(close>open){
-            String op2=op+')';
-            solve(open,close-1,op2,sc);
+            op.append(')');
+            solve(open,close-1,op,sc);
+            op.deleteCharAt(op.length()-1);
         }
         return;
     }
