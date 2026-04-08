@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1646-kth-missing-positive-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2047-find-a-peak-element-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2047-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2104-sum-of-subarray-ranges) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1922-count-good-numbers) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3783-mirror-distance-of-an-integer) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0779-k-th-symbol-in-grammar) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1922-count-good-numbers) |
 ## Hash Table
 |  |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0239-sliding-window-maximum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0735-asteroid-collision) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
