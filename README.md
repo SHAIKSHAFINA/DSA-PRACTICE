@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 | [0670-maximum-swap](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0670-maximum-swap) |
+| [0738-monotone-increasing-digits](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0738-monotone-increasing-digits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0678-valid-parenthesis-string) |
+| [0738-monotone-increasing-digits](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0738-monotone-increasing-digits) |
 | [0846-hand-of-straights](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0860-lemonade-change) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
