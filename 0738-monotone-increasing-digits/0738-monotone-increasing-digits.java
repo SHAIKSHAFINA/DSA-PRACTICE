@@ -3,21 +3,16 @@ class Solution {
         char arr[]=Integer.toString(n).toCharArray();
         int x=arr.length;
 
-        for(int i=1;i<arr.length;i++){
+        for(int i=arr.length-1;i>0;i--){
             if(arr[i-1] > arr[i]){
+                arr[i-1]--;
                 x=i;
-                arr[x-1]--;
-                while(x>1 && arr[x-2]>arr[x-1]){
-                    x--;
-                    arr[x-1]--;
-                }
-                 break;
             }    
         }
 
-         for(int j=x;j<arr.length;j++){
-                arr[j]='9';
-            }
+         for(int i=x;i<arr.length;i++){
+                arr[i]='9';
+        }
         return Integer.parseInt(new String(arr));
     }
 }
