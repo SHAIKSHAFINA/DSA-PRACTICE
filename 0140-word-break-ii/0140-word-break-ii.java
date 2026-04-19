@@ -3,29 +3,41 @@ class Solution {
         
         HashSet<String> mp=new HashSet<>(wordDict);
         int n=s.length();
-        ArrayList<String> l=new ArrayList<>();
-        List<String> sc=new ArrayList<>();
-        solve(s,mp,0,n,l,sc);
-        return sc;
-
-    
+       HashMap<Integer,List<String>> dp=new HashMap<>();
+       List<String> sc=new ArrayList<>();
+        return solve(s,mp,0,n,dp);
 
     }
 
-    void solve(String s,HashSet<String> mp,int start,int n,ArrayList<String>l,List<String>sc){
+    List<String> solve(String s,HashSet<String> mp,int start,int n,HashMap<Integer,List<String>> dp){
+        List<String> res=new ArrayList<>();
         if(start==n){
-            sc.add(String.join(" ",l));
-            return;
+            List<String> sc=new ArrayList<>();
+            sc.add("");
+            return sc;
+        }
+        
+        if(dp.get(start)!=null){
+            return dp.get(start);
         }
 
         for(int i=start;i<n;i++){
             String t=s.substring(start,i+1);
             if(mp.contains(t)){
-                l.add(t);
-                solve(s,mp,i+1,n,l,sc);
-                l.remove(l.size()-1);
+              List<String> next= solve(s,mp,i+1,n,dp);
+
+              for(String x:next){
+                if(x.equals("")){
+                    res.add(t);
+                }
+                else{
+                    res.add(t +" "+ x);
+                }
+              }
             }
         }
-        return;
+        dp.put(start,res);
+        return res;
+
     }
 }
