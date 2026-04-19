@@ -4,40 +4,33 @@ class Solution {
         HashSet<String> mp=new HashSet<>(wordDict);
         int n=s.length();
        HashMap<Integer,List<String>> dp=new HashMap<>();
-       List<String> sc=new ArrayList<>();
-        return solve(s,mp,0,n,dp);
 
-    }
+       List<String> base=new ArrayList<>();
+       base.add("");
+       dp.put(0,base);
 
-    List<String> solve(String s,HashSet<String> mp,int start,int n,HashMap<Integer,List<String>> dp){
-        List<String> res=new ArrayList<>();
-        if(start==n){
+        for(int i=1;i<=n;i++){
             List<String> sc=new ArrayList<>();
-            sc.add("");
-            return sc;
-        }
-        
-        if(dp.get(start)!=null){
-            return dp.get(start);
-        }
+            for(int j=0;j<i;j++){
+                String t=s.substring(j,i);
+                if(dp.get(j)!=null && mp.contains(t)){
+                    List<String> prev=dp.get(j);
 
-        for(int i=start;i<n;i++){
-            String t=s.substring(start,i+1);
-            if(mp.contains(t)){
-              List<String> next= solve(s,mp,i+1,n,dp);
-
-              for(String x:next){
-                if(x.equals("")){
-                    res.add(t);
+                    for(String x:prev){
+                        if(x.equals("")){
+                            sc.add(t);
+                        }
+                        else{
+                            sc.add(x +" "+ t);
+                        }
+                    }
                 }
-                else{
-                    res.add(t +" "+ x);
-                }
-              }
             }
+            dp.put(i,sc);
         }
-        dp.put(start,res);
-        return res;
+
+        return dp.get(n);
 
     }
+
 }
