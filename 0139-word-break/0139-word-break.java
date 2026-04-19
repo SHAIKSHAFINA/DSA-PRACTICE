@@ -1,32 +1,20 @@
 class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
-        HashSet<String> mp=new HashSet<>();
-        for(String x:wordDict){
-            mp.add(x);
-        }
-
         int n=s.length();
-        Boolean dp[]=new Boolean[n];
-       return solve(s,mp,0,n,dp);
+        HashSet<String> mp=new HashSet<>(wordDict);
 
-    }
+        boolean dp[] = new boolean[n+1];
+        dp[0]=true;
 
-    boolean solve(String s,HashSet<String> mp,int start,int n,Boolean[] dp){
-        if(start==n) return true;
-        
-        if(dp[start]!=null){
-            return dp[start];
-        }
-
-        for(int i=start;i<n;i++){
-            String t=s.substring(start,i+1);
-            if(mp.contains(t) && solve(s,mp,i+1,n,dp)){
-               dp[start]=true;
-               return true;
+        for(int i=1;i<=n;i++){
+            for(int j=0;j<i;j++){
+                if(dp[j] && mp.contains(s.substring(j,i))){
+                    dp[i]=true;
+                    break;
+                }
             }
         }
-        dp[start]=false;
-        return false;
 
+        return dp[n];
     }
 }
