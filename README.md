@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0169-majority-element) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0146-lru-cache) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0692-top-k-frequent-words) |
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0692-top-k-frequent-words) |
 ## Geometry
 |  |
@@ -609,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 ## Hash Function
 |  |
