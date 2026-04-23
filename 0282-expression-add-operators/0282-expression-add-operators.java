@@ -17,14 +17,23 @@ class Solution {
             String x=nums.substring(start,i+1);
             long num=Long.parseLong(x);
             if(start==0){
-                solve(sc, nums, target, num, new StringBuilder().append(x), i+1, num);
+                int len = res.length();
+                res.append(x);
+                solve(sc, nums, target, num, res, i+1, num);
+                res.setLength(len);
                 continue;
             }
-            solve(sc,nums,target,ans-last+(last*num),new StringBuilder(res).append("*").append(x),i+1,last*num);
+            int len=res.length();
+            solve(sc,nums,target,ans-last+(last*num),res.append("*").append(x),i+1,last*num);
+            res.setLength(len);
 
-            solve(sc,nums,target,ans+num,new StringBuilder(res).append("+").append(x),i+1,num);
+            len=res.length();
+            solve(sc,nums,target,ans+num,res.append("+").append(x),i+1,num);
+            res.setLength(len);
 
-            solve(sc,nums,target,ans-num,new StringBuilder(res).append("-").append(x),i+1,-num);
+            len=res.length();
+            solve(sc,nums,target,ans-num,res.append("-").append(x),i+1,-num);
+            res.setLength(len);
         }
 
         return;
