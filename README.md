@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0231-power-of-two) |
+| [0282-expression-add-operators](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 | [0670-maximum-swap](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0738-monotone-increasing-digits) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0140-word-break-ii) |
+| [0282-expression-add-operators](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0282-expression-add-operators) |
 | [0424-longest-repeating-character-replacement](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0472-concatenated-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0472-concatenated-words) |
 | [0678-valid-parenthesis-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0678-valid-parenthesis-string) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0282-expression-add-operators) |
 | [0784-letter-case-permutation](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Enumeration
