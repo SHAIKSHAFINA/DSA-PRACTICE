@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0139-word-break) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0051-n-queens) |
