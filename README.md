@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0404-sum-of-left-leaves) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Greedy
 |  |
 | ------- |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Binary Tree
 |  |
 | ------- |
@@ -651,4 +653,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0706-design-hashmap) |
+## Graph Theory
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
