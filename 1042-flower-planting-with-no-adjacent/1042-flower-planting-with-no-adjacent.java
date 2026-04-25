@@ -23,10 +23,10 @@ class Solution {
                 used[ans[nei]]=true;
             }
             for(int c=1;c<=4;c++){
-        if(!used[c]){
-            ans[i]=c;
-            break;
-        }
+                if(!used[c]){
+                    ans[i]=c;
+                    break;
+                }
        }
        }
 
