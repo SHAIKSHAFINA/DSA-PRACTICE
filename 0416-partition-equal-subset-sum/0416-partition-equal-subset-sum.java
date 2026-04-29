@@ -19,7 +19,7 @@ class Solution {
         
 
         for(int i=1;i<=n;i++){
-            for(int j=target;j>=0;j--){
+            for(int j=target;j>=nums[i-1];j--){
                 if(nums[i-1]<=j){
                     dp[j]=dp[j-nums[i-1]] || dp[j];
                 }
