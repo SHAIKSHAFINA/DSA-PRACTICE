@@ -1,9 +1,11 @@
 class Solution {
     public int rotatedDigits(int n) {
         int c=0;
+        int dp[]=new int[n+1];
+        Arrays.fill(dp,-1);
 
         for(int i=1;i<=n;i++){
-            if(solve(i)==1){
+            if(solve(i,dp)==1){
                 c++;
             }
         }
@@ -11,11 +13,18 @@ class Solution {
         return c;
     }
 
-    int solve(int n){
-        if(n==0) return 0;
-        int remain=solve(n/10);
+    int solve(int n,int dp[]){
+        if(dp[n]!=-1){
+            return dp[n];
+        }
+        if(n==0){
+            dp[n]=0;
+        }
+        int remain=solve(n/10,dp);
   
-        if(remain==2) return 2;
+        if(remain==2){
+            return dp[n]=2;
+        }
 
         int digitCheck=0;
         int digit=n%10;
@@ -27,12 +36,14 @@ class Solution {
             digitCheck=1;
         }
         else{
-            return 2;
+           return dp[n]=2;
         }
 
-         if(remain==0 && digitCheck==0) return 0;
+         if(remain==0 && digitCheck==0){
+           return dp[n]=0;
+         }
 
-        return 1;
+        return dp[n]=1;
     }
 
 }
