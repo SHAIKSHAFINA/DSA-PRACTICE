@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0629-k-inverse-pairs-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0629-k-inverse-pairs-array) |
 | [0678-valid-parenthesis-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0788-rotated-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2338-count-the-number-of-ideal-arrays) |
 ## Array
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0738-monotone-increasing-digits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0779-k-th-symbol-in-grammar) |
+| [0788-rotated-digits](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0788-rotated-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1823-find-the-winner-of-the-circular-game) |
