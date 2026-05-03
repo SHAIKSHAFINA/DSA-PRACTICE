@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0992-subarrays-with-k-different-integers) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2404-most-frequent-even-element](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2404-most-frequent-even-element) |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Combinatorics
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0260-single-number-iii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0784-letter-case-permutation) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
