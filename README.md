@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0692-top-k-frequent-words) |
 | [0784-letter-case-permutation](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0784-letter-case-permutation) |
+| [0796-rotate-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1540-can-convert-string-in-k-moves](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1540-can-convert-string-in-k-moves) |
@@ -670,4 +671,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1042-flower-planting-with-no-adjacent) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
