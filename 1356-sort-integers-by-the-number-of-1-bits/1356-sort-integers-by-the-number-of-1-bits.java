@@ -8,8 +8,8 @@ class Solution {
         }
 
         Arrays.sort(a,(c,d)->{
-            int c1=Count(c);
-            int c2=Count(d);
+            int c1=Integer.bitCount(c);
+            int c2=Integer.bitCount(d);
             if(c1!=c2) return c1-c2;
             return c-d;
         });
@@ -22,15 +22,4 @@ class Solution {
         
     }
     
-    int Count(int n){
-        int c=0;
-        while(n>0){
-            if(n%2!=0){
-                c++;
-            }
-            n/=2;
-        }
-        
-        return c;
-    }
 }
