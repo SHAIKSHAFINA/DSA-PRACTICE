@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0056-merge-intervals) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0079-word-search) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0069-sqrtx) |
