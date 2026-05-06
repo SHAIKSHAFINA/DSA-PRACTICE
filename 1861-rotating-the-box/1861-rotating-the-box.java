@@ -11,25 +11,19 @@ class Solution {
 
 
         for(int j=0;j<n;j++){
+            int space=m-1;;
             for(int i=m-1;i>=0;i--){
-                if(ans[i][j]=='.'){
-                    int stone=-1;
-
-                    for(int k=i-1;k>=0;k--){
-                        if(ans[k][j]=='*'){
-                           break;
-                        }
-                        else if(ans[k][j]=='#'){
-                            stone=k;
-                            break;
-                        }
-                    }
-
-                    if(stone!=-1){
-                        ans[i][j]='#';
-                        ans[stone][j]='.';
-                    }
-                }
+               if(ans[i][j]=='*'){
+                    space=i-1;
+                    continue;
+               }
+               else if(ans[i][j]=='#'){
+                    ans[i][j]='.';
+                    ans[space][j]='#';
+                    space--;
+               }
+                    
+                
             }
         }
 
