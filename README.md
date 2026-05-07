@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0788-rotated-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
+| [1092-shortest-common-supersequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2338-count-the-number-of-ideal-arrays) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0692-top-k-frequent-words) |
 | [0784-letter-case-permutation](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0796-rotate-string) |
+| [1092-shortest-common-supersequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
