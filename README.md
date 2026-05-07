@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2338-count-the-number-of-ideal-arrays) |
+| [3660-jump-game-ix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3660-jump-game-ix) |
 ## Array
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2737-row-with-maximum-ones) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3478-choose-k-elements-with-maximum-sum) |
+| [3660-jump-game-ix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3660-jump-game-ix) |
 | [3861-minimum-capacity-box](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3861-minimum-capacity-box) |
 ## Binary Search
 |  |
