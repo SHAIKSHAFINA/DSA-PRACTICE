@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0583-delete-operation-for-two-strings) |
 | [0629-k-inverse-pairs-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0629-k-inverse-pairs-array) |
 | [0678-valid-parenthesis-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0282-expression-add-operators) |
 | [0424-longest-repeating-character-replacement](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0472-concatenated-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0472-concatenated-words) |
+| [0583-delete-operation-for-two-strings](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0692-top-k-frequent-words) |
 | [0784-letter-case-permutation](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0784-letter-case-permutation) |
