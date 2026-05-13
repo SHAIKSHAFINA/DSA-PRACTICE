@@ -1,6 +1,7 @@
 class Solution {
     public int minCut(String s) {
-     int n=s.length();
+    
+        int n=s.length();
         int dp[]=new int[n];
         
         Arrays.fill(dp,-1);
@@ -14,7 +15,7 @@ class Solution {
     static int solve(String s,int i,int dp[],boolean palindrome[][]){
         int n=s.length();
         int min=Integer.MAX_VALUE;
-        int left=0,right=0;
+        
         if(i==n){
             return 0;
         }
