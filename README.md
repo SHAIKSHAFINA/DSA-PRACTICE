@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2737-row-with-maximum-ones) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Divide and Conquer
 |  |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1540-can-convert-string-in-k-moves](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1540-can-convert-string-in-k-moves) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Sliding Window
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0140-word-break-ii) |
 | [0472-concatenated-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0472-concatenated-words) |
 | [0692-top-k-frequent-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0692-top-k-frequent-words) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Geometry
 |  |
 | ------- |
