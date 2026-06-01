@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0079-word-search) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0139-word-break) |
