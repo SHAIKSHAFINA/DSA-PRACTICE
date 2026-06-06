@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2540-minimum-common-value](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2574-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2737-row-with-maximum-ones) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2784-check-if-array-is-good) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2574-left-and-right-sum-differences](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2574-left-and-right-sum-differences) |
 ## Linked List
 |  |
 | ------- |
