@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2126-destroying-asteroids) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2404-most-frequent-even-element](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2404-most-frequent-even-element) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2540-minimum-common-value](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2540-minimum-common-value) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0908-middle-of-the-linked-list) |
 | [1861-rotating-the-box](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1861-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2540-minimum-common-value](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2540-minimum-common-value) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0735-asteroid-collision) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2553-separate-the-digits-in-an-array) |
 ## Heap (Priority Queue)
 |  |
