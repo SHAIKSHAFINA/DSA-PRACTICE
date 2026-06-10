@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0132-palindrome-partitioning-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0136-single-number) |
