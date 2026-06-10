@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0658-find-k-closest-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0908-middle-of-the-linked-list) |
 | [1861-rotating-the-box](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1861-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2161-partition-array-according-to-given-pivot) |
