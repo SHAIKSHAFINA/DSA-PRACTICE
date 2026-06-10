@@ -7,9 +7,10 @@ class Solution {
             if(nums[mid]==0){
                 swap(l,mid,nums);
                 l++;
+                mid++;
             }
 
-            if(nums[mid]==2){
+            else if(nums[mid]==2){
                 swap(r,mid,nums);
                 r--;
             }
