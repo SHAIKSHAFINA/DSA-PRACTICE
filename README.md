@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
