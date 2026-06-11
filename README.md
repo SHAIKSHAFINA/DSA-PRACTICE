@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0455-assign-cookies) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0784-letter-case-permutation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
