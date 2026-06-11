@@ -3,13 +3,24 @@ class Solution {
         int m=matrix.length;
         int n=matrix[0].length;
 
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(matrix[i][j]==target){
-                    return true;
-                }
+        int l=0,r=m*n-1;
+
+        while(l<=r){
+            int mid=l+(r-l)/2;
+            int ele=matrix[mid/n][mid%n];
+
+            if(ele==target){
+                return true;
+            }
+
+            else if(ele<target){
+                l=mid+1;
+            }
+            else{
+                r=mid-1;
             }
         }
+
         return false;
     }
 }
