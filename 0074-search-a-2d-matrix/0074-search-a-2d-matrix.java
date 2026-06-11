@@ -14,10 +14,10 @@ class Solution {
             }
 
             else if(ele<target){
-                l=mid+1;
+                l++;
             }
             else{
-                r=mid-1;
+                r--;
             }
         }
 
