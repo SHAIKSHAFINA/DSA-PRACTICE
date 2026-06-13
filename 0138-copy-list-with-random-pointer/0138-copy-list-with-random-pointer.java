@@ -15,46 +15,44 @@ class Node {
 
 class Solution {
     public Node copyRandomList(Node head) {
-        if(head==null) return null;
-        insertCopy(head);
-        random(head);
-        return deepCopy(head);
-    }
-
-    void insertCopy(Node head){
-        Node temp=head;
-        while(temp!=null){
-            Node newNode=new Node(temp.val);
-            newNode.next=temp.next;
-            temp.next=newNode;
-            temp=temp.next.next;  
+        if(head==null){
+            return null;
         }
-    }
 
-    void random(Node head){
-        Node temp=head;
-        while(temp!=null){
-            Node newNode=temp.next;
-            if(temp.random!=null){
-                 newNode.random=temp.random.next;
+        HashMap<Node,Node> mp=new HashMap<>();
+        Node curr=head,newNode=null,prev=null;
+
+        while(curr!=null){
+            Node temp=new Node(curr.val);
+            mp.put(curr,temp);
+
+            if(newNode==null){
+                newNode = temp;
+                prev=newNode;
             }
             else{
-                newNode.random=null;
+                prev.next=temp;
+                prev=temp;
             }
-            temp=temp.next.next;
-        }
-    }
 
-    Node deepCopy(Node head){
-        Node temp=head;
-        Node dummy=new Node(-1);
-        Node res=dummy;
-        while(temp!=null){
-            res.next=temp.next;
-            temp.next=temp.next.next;
-            res=res.next;
-            temp=temp.next; 
+            curr=curr.next;
         }
-        return dummy.next;
+
+        curr=head;
+        Node newCurr=newNode;
+
+        while(curr!=null && newCurr!=null){
+            if(curr.random==null){
+                newCurr.random=null;
+            }
+            else{
+                newCurr.random=mp.get(curr.random);
+            }
+
+            curr=curr.next;
+            newCurr=newCurr.next;
+        }
+
+        return newNode;
     }
 }
