@@ -16,43 +16,51 @@ class Node {
 class Solution {
     public Node copyRandomList(Node head) {
         if(head==null){
-            return null;
+            return head;
         }
 
-        HashMap<Node,Node> mp=new HashMap<>();
-        Node curr=head,newNode=null,prev=null;
+        Node curr=head;
 
+        // Insert new Node
         while(curr!=null){
-            Node temp=new Node(curr.val);
-            mp.put(curr,temp);
+            Node temp=curr.next;
+            curr.next=new Node(curr.val);
+            curr.next.next=temp;
 
-            if(newNode==null){
-                newNode = temp;
-                prev=newNode;
+            curr=temp;
+
+        }
+
+        //create a deep copy
+        curr=head;
+
+        while(curr!=null && curr.next!=null){
+            if(curr.random==null){
+                curr.next.random=null;
             }
             else{
-                prev.next=temp;
-                prev=temp;
+                curr.next.random=curr.random.next;
             }
 
-            curr=curr.next;
+            curr=curr.next.next;
         }
 
+        // seperate LL
+
+        Node newHead=head.next;
+        Node newCurr=newHead;
         curr=head;
-        Node newCurr=newNode;
 
         while(curr!=null && newCurr!=null){
-            if(curr.random==null){
-                newCurr.random=null;
-            }
-            else{
-                newCurr.random=mp.get(curr.random);
-            }
+            curr.next= (curr.next==null)?null:curr.next.next;
+            newCurr.next= (newCurr.next==null)?null:newCurr.next.next;
 
             curr=curr.next;
             newCurr=newCurr.next;
+
         }
 
-        return newNode;
+        return newHead;
+
     }
 }
