@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0455-assign-cookies) |
 | [0472-concatenated-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0472-concatenated-words) |
+| [0493-reverse-pairs](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0503-next-greater-element-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0792-binary-search) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0493-reverse-pairs) |
 | [0973-k-closest-points-to-origin](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -807,4 +811,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
