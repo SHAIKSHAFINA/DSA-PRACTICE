@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0887-super-egg-drop) |
 | [0973-k-closest-points-to-origin](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1922-count-good-numbers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1922-count-good-numbers) |
