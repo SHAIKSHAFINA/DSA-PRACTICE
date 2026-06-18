@@ -1,51 +1,48 @@
 class Solution {
-    List<List<String>> ans = new ArrayList<>();
-
     public List<List<String>> solveNQueens(int n) {
+        char mat[][]=new char[n][n];
 
-        char[][] board = new char[n][n];
-        for (char[] row : board) {
-            Arrays.fill(row, '.');
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                mat[i][j]='.';
+            }
         }
+        List<List<String>> res=new ArrayList<>();
 
-        boolean[] row = new boolean[n];
-        boolean[] dia = new boolean[2 * n - 1];
-        boolean[] antiDia = new boolean[2 * n - 1];
-
-        solve(n, 0, board, row, dia, antiDia);
-        return ans;
+        solve(n,mat,0,res);
+        return res;
     }
 
-    void solve(int n, int col, char[][] board,
-               boolean[] row, boolean[] dia, boolean[] antiDia) {
-
-        if (col == n) {
-            
-            List<String> temp = new ArrayList<>();
-            for (int i = 0; i < n; i++) {
-                temp.add(new String(board[i]));
+    void solve(int n,char mat[][],int i,List<List<String>> res){
+        if(i==n){
+            List<String> sc=new ArrayList<>();
+            for(int r=0;r<n;r++){
+                sc.add(new String(mat[r]));
             }
-            ans.add(temp);
+            res.add(sc);
             return;
         }
-
-        for (int i = 0; i < n; i++) {
-            if (!row[i] && !dia[i + col] && !antiDia[i - col + n - 1]) {
-
-                
-                board[i][col] = 'Q';
-                row[i] = true;
-                dia[i + col] = true;
-                antiDia[i - col + n - 1] = true;
-
-                solve(n, col + 1, board, row, dia, antiDia);
-
-               
-                board[i][col] = '.';
-                row[i] = false;
-                dia[i + col] = false;
-                antiDia[i - col + n - 1] = false;
-            }
+        
+        for(int j=0;j<n;j++){
+            if(isSafe(mat,i,j)){
+                   mat[i][j]='Q';
+                   solve(n,mat,i+1,res);
+                   mat[i][j]='.';
+                }
         }
+        return;
+    }
+
+    boolean isSafe(char mat[][],int i,int j){
+        int n=mat.length;
+        for(int r=0;r<i;r++){
+            if(mat[r][j]=='Q') return false;
+            for(int c=0;c<n;c++){
+                 if(mat[r][c]=='Q' && Math.abs(r-i)==Math.abs(c-j) ) return false;
+            }
+           
+           
+        }
+        return true;
     }
 }
