@@ -1,54 +1,37 @@
 class Solution {
     public void solveSudoku(char[][] board) {
-        boolean row[][] =new boolean[9][9];
-        boolean col[][] =new boolean[9][9];
-        boolean box[][] =new boolean[9][9];
-        for (int r = 0; r < 9; r++) {
-            for (int c = 0; c < 9; c++) {
-                if (board[r][c] != '.') {
-                    int num = board[r][c] - '1';
-                    int boxIndex = (r / 3) * 3 + (c / 3);
+        if(solve(board,0,0)) return;
+    }
 
-                    row[r][num] = true;
-                    col[c][num] = true;
-                    box[boxIndex][num] = true;
-                }
-            }
-        }
-        if(solve(board,0,0,row,col,box)) return;
-}
-
-    boolean solve(char[][]b,int i,int j,boolean row[][],boolean col[][],boolean box[][]){
-
-        if(i==9){
-            return true;
-        }
-        if(j==9){
-            return solve(b,i+1,0,row,col,box);
-        }
+    boolean solve(char[][] b, int i,int j){
+        if(i==9) return true;
+        if(j==9) return solve(b,i+1,0);
 
         if(b[i][j]!='.'){
-            return solve(b,i,j+1,row,col,box);
+            return solve(b,i,j+1);
         }
-        else{
-            for(char x='1';x<='9';x++){
-                int boxIndex=(i/3)*3 + (j/3);
-                int num=x-'1';
-                if(!row[i][num] && !col[j][num] && !box[boxIndex][num]){
-                    b[i][j]=x;
-                    row[i][num]=true;
-                    col[j][num]=true;
-                    box[boxIndex][num]=true;
 
-                    if(solve(b,i,j+1,row,col,box)) return true;
-                    b[i][j]='.';
-
-                    row[i][num]=false;
-                    col[j][num]=false;
-                    box[boxIndex][num]=false;
-                }
+        for(char d='1';d<='9';d++){
+            if(isValid(b,i,j,d)){
+                b[i][j]=d;
+                if(solve(b,i,j+1)) return true;
+                b[i][j]='.';
             }
         }
         return false;
+    }
+
+    boolean isValid(char[][]b,int r,int c,int d){
+        for(int k=0;k<9;k++){
+            if(b[r][k]==d) return false;
+            if(b[k][c]==d) return false;
+
+            int row=(r/3)*3 + k/3;
+            int col=(c/3)*3 + k%3;
+
+            if(b[row][col]==d) return false;
+        }
+
+        return true;
     }
 }
