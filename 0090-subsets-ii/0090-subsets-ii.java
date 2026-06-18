@@ -1,36 +1,28 @@
 class Solution {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        
         Arrays.sort(nums);
-        List<List<Integer>> sc=new ArrayList<>();
-        
-        ArrayList<Integer> op=new ArrayList<>();
-        solve(nums,op,sc);
-    
-        return sc;
+        List<List<Integer>> res=new ArrayList<>();
+        List<Integer> sc=new ArrayList<>();
+        int n=nums.length;
 
+        solve(nums,0,res,sc);
+        return res;
     }
 
-    void solve(int []ip,ArrayList<Integer> op,List<List<Integer>> sc){
-        if(ip.length==0){
-            List<Integer> x=new ArrayList(op);
-            sc.add(x);
+    void solve(int []nums,int start,List<List<Integer>> res,List<Integer> sc){
+        int n=nums.length;
+        if(start==n){
+            res.add(new ArrayList<>(sc));
             return;
         }
+        sc.add(nums[start]);
+        solve(nums,start+1,res,sc);
+        sc.remove(sc.size()-1);
+        
+        while(start+1 < n && nums[start]==nums[start+1]) start++;
 
-        int i=ip[0];
-        int idx=0;
+        solve(nums,start+1,res,sc);
 
-        int a[]=Arrays.copyOfRange(ip,1,ip.length);
-        op.add(i);
-        solve(a,op,sc);
-        op.remove(op.size()-1);
-
-        while(idx < ip.length && ip[idx]==i){
-            idx++;
-        }
-        int y[]=Arrays.copyOfRange(ip,idx,ip.length);
-        solve(y,op,sc);
         return;
     }
 }
