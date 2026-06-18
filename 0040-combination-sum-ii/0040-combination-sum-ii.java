@@ -6,10 +6,8 @@ class Solution {
         int n=candidates.length;
 
         solve(candidates,target,0,0,sc,res);
-        HashSet<List<Integer>> cc=new HashSet<>(res);
-        List<List<Integer>> result=new ArrayList<>(cc);
 
-        return result;
+        return res;
     }
     void solve(int[]c,int target,int start,int sum,List<Integer>sc,List<List<Integer>> res){
             
