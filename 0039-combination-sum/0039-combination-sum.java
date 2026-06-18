@@ -1,25 +1,32 @@
 class Solution {
-    public List<List<Integer>> combinationSum(int[] arr, int target) {
-        List<List<Integer>> sc=new ArrayList<>();
-        List<Integer> a=new ArrayList<>();
-        sum(0,arr,target,sc,0,a);
-        return sc;
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        List<List<Integer>> res=new ArrayList<>();
+        List<Integer> sc=new ArrayList<>();
+        int n=candidates.length;
 
+        solve(candidates,target,0,0,sc,res);
+        return res;
     }
 
-    void sum(int i , int []arr,int target,List<List<Integer>> sc,int sum,List<Integer>a){
+    void solve(int[]c,int target,int start,int sum,List<Integer>sc,List<List<Integer>> res){
+        
+        int n=c.length;
         if(sum==target){
-            sc.add(new ArrayList<>(a));
+            res.add(new ArrayList<>(sc));
             return;
         }
-        if(sum>target || i==arr.length){
-           return;
+        if(sum>target){
+            return;
         }
-        
-        a.add(arr[i]);
-        sum(i,arr,target,sc,sum+arr[i],a);
-        a.remove(a.size()-1);
-        sum(i+1,arr,target,sc,sum,a);
+
+        if(start>=n) return;
+
+        sc.add(c[start]);
+        solve(c,target,start,sum+c[start],sc,res);
+        sc.remove(sc.size()-1);
+
+        solve(c,target,start+1,sum,sc,res);
+
         return;
     }
 }
