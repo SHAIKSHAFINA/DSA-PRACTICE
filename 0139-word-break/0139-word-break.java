@@ -6,25 +6,17 @@ class Solution {
             mp.add(x);
         }
         int n=s.length();
-        Boolean dp[]=new Boolean[n];
-        return solve(s,mp,0,n,dp);
-    }
-    boolean solve(String s,HashSet<String> mp,int i,int n,Boolean [] dp){
-        if(i==n){
-            return true;
-        }
+        boolean dp[]=new boolean[n+1];
+        dp[0]=true;
 
-        if(dp[i]!=null) return dp[i];
-
-        for(int j=i;j<n;j++){
-            String t=s.substring(i,j+1);
-            if(mp.contains(t) && solve(s,mp,j+1,n,dp)){
-                dp[i]=true;
-                return true;
+        for(int i=1;i<=n;i++){
+            for(int j=0;j<i;j++){
+                if(dp[j] && mp.contains(s.substring(j,i))){
+                    dp[i]=true;
+                    break;
+                }
             }
         }
-
-        dp[i]=false;
-        return false;
+        return dp[n];
     }
 }
