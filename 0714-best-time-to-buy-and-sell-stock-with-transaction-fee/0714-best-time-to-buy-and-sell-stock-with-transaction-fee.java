@@ -1,0 +1,27 @@
+class Solution {
+    public int maxProfit(int[] prices, int fee) {
+        int n=prices.length;
+        int dp[][]=new int[n+1][2];
+
+        for(int i=0;i<=n;i++){
+            for(int j=0;j<2;j++){
+                dp[i][j]=-1;
+            }
+        }
+        return profit(prices,n,0,1,fee,dp);
+    }
+    int profit(int prices[],int n,int start,int buy,int fee,int dp[][]){
+        if(start==n){
+            return 0;
+        }
+
+        if(dp[start][buy]!=-1) return dp[start][buy];
+        if(buy==1){
+            return dp[start][buy]=Math.max(-prices[start]+profit(prices,n,start+1,0,fee,dp) ,profit(prices,n,start+1,1,fee,dp));
+        }
+        else{
+            return dp[start][buy]=Math.max(-fee+prices[start]+profit(prices,n,start+1,1,fee,dp) ,profit(prices,n,start+1,0,fee,dp));
+        }
+
+    }
+}
