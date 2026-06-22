@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2574-left-and-right-sum-differences) |
+| [2594-minimum-time-to-repair-cars](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2594-minimum-time-to-repair-cars) |
 | [2737-row-with-maximum-ones](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2737-row-with-maximum-ones) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2784-check-if-array-is-good) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2540-minimum-common-value) |
+| [2594-minimum-time-to-repair-cars](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2594-minimum-time-to-repair-cars) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Matrix
