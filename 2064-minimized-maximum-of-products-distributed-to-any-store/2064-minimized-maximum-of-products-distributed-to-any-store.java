@@ -23,7 +23,7 @@ class Solution {
     }
     
     boolean solve(int[] arr,int mid,int k){
-        int c=0;
+        long c=0;
         
         for(int i=0;i<arr.length;i++){
             c+=Math.ceil((double)arr[i]/mid);
