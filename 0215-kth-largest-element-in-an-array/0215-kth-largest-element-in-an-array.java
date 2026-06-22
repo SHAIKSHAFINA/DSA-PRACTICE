@@ -5,10 +5,9 @@ class Solution {
 
         for(int num:nums){
             pq.add(num);
-        }
-
-        while(!pq.isEmpty() && pq.size()>k){
-            pq.remove();
+            if(pq.size()>k){
+                 pq.remove();
+            }
         }
 
         return pq.peek();
