@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2404-most-frequent-even-element](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2404-most-frequent-even-element) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2574-left-and-right-sum-differences) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2047-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2540-minimum-common-value) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Matrix
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2126-destroying-asteroids) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2784-check-if-array-is-good](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2784-check-if-array-is-good) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2126-destroying-asteroids) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Prefix Sum
 |  |
