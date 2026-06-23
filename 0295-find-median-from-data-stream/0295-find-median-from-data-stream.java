@@ -1,38 +1,31 @@
 class MedianFinder {
-    PriorityQueue<Integer> minH;
-    PriorityQueue<Integer> maxH;
+    //MedianFinder m;
+    PriorityQueue<Integer> p=new PriorityQueue<>(Collections.reverseOrder());
+    PriorityQueue<Integer> q=new PriorityQueue<>();
 
     public MedianFinder() {
-        minH=new PriorityQueue<>();
-        maxH=new PriorityQueue<>(Collections.reverseOrder());
+      //  m=new MedianFinder();
     }
     
     public void addNum(int num) {
-        if(maxH.isEmpty() || num< maxH.peek()){
-            maxH.add(num);
-        }
-        else{
-            minH.add(num);
-        }
-       
-        if(Math.abs(minH.size()-maxH.size()) >1){
-            minH.add(maxH.poll());
-           
-        }
+        p.add(num);
+        q.add(p.poll());
 
-        else if(minH.size() > maxH.size()){
-            maxH.add(minH.poll());
+
+        if(q.size()>p.size()){
+            p.add(q.poll());
         }
     }
     
     public double findMedian() {
-        
-        if(maxH.size()==minH.size()){
-            return (double)(minH.peek()+maxH.peek())/2;
-        }
+        int x=p.size()+q.size();
 
-        
-        return maxH.peek();
+        if(x%2 !=0){
+            return p.peek();
+        }
+        else{
+            return (p.peek()+q.peek())/2.0;
+        }
     }
 }
 
