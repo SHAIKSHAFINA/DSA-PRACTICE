@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0583-delete-operation-for-two-strings) |
 | [0629-k-inverse-pairs-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0629-k-inverse-pairs-array) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0658-find-k-closest-elements) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0706-design-hashmap) |
@@ -880,10 +882,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Ordered Set
 |  |
 | ------- |
