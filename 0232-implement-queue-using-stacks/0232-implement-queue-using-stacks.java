@@ -1,4 +1,5 @@
 class MyQueue {
+    //input for only puch and o/p stack for pop and peek operations
     Stack<Integer> i;
     Stack<Integer> o;
     int peekEle=-1;
