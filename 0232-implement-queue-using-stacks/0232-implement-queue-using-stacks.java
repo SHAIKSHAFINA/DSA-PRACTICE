@@ -1,33 +1,45 @@
 class MyQueue {
-    Stack<Integer> s1,s2;
+    Stack<Integer> i;
+    Stack<Integer> o;
+    int peekEle=-1;
+
     public MyQueue() {
-        s1=new Stack<>();
-        s2=new Stack<>();
+        i=new Stack<>();
+        o=new Stack<>();
     }
     
     public void push(int x) {
-        while(s1.size()!=0){
-            s2.push(s1.pop());
-               
+        if(i.size()==0){
+            peekEle=x;
         }
-        s1.push(x);
-        while(s2.size()!=0){
-            s1.push(s2.pop());
-        }
+        i.push(x);
     }
     
     public int pop() {
-        if(s1.size()==0) return -1;
-        return s1.pop();
+        if(o.size()!=0){
+            return o.pop();
+        }
+        else{
+            while(i.size()!=0){
+                o.push(i.pop());
+            }
+
+            return o.pop();
+        }
     }
     
     public int peek() {
-        if(s1.size()==0) return -1;
-        return s1.peek();
+        if(o.size()!=0){
+            return o.peek();
+        } 
+        else{
+            return peekEle;
+        }
     }
     
     public boolean empty() {
-        return (s1.size()==0);
+        if(i.size()==0 && o.size()==0) return true;
+        return false;
     }
 }
 
