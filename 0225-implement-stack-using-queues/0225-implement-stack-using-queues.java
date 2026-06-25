@@ -1,29 +1,40 @@
 class MyStack {
     Queue<Integer> q;
-    
+
     public MyStack() {
-       q=new LinkedList<>(); 
+        q=new LinkedList<>();
     }
     
     public void push(int x) {
-        int size=q.size();
-        q.add(x);
-        for(int i=0;i<size;i++){
-            q.add(q.poll());
-        }
+        q.offer(x);
+        //reverse(q);
     }
     
     public int pop() {
-        return q.poll();
+        reverse(q);
+        int y= q.poll();
+        reverse(q);
+        return y;
     }
     
     public int top() {
-       return q.peek(); 
+        reverse(q);
+        int y= q.peek();
+        reverse(q);
+        return y;
+        
     }
     
     public boolean empty() {
         if(q.size()==0) return true;
         return false;
+    }
+
+    public void reverse(Queue <Integer> q){
+        if(q.size()==0) return;
+        int x=q.poll();
+        reverse(q);
+        q.offer(x);
     }
 }
 
