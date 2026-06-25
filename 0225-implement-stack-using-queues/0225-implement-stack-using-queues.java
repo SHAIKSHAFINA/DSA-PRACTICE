@@ -6,35 +6,24 @@ class MyStack {
     }
     
     public void push(int x) {
-        q.offer(x);
-        //reverse(q);
+        q.add(x);
+       for(int i=0;i<q.size()-1;i++){
+            q.add(q.poll());
+       }
     }
     
     public int pop() {
-        reverse(q);
-        int y= q.poll();
-        reverse(q);
-        return y;
+        return q.poll();
     }
     
     public int top() {
-        reverse(q);
-        int y= q.peek();
-        reverse(q);
-        return y;
+        return q.peek();
         
     }
     
     public boolean empty() {
         if(q.size()==0) return true;
         return false;
-    }
-
-    public void reverse(Queue <Integer> q){
-        if(q.size()==0) return;
-        int x=q.poll();
-        reverse(q);
-        q.offer(x);
     }
 }
 
