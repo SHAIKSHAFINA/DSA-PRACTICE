@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0282-expression-add-operators) |
 | [0392-is-subsequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
+| [0459-repeated-substring-pattern](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0583-delete-operation-for-two-strings) |
@@ -897,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1392-longest-happy-prefix) |
 ## Union-Find
