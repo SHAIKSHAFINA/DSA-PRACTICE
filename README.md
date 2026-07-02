@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2737-row-with-maximum-ones) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1345-jump-game-iv](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1345-jump-game-iv) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Greedy
 |  |
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0973-k-closest-points-to-origin) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3478-choose-k-elements-with-maximum-sum) |
 ## Monotonic Queue
 |  |
@@ -897,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1042-flower-planting-with-no-adjacent) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String Matching
 |  |
 | ------- |
@@ -927,4 +932,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1392-longest-happy-prefix) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
