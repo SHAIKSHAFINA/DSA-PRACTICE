@@ -14,24 +14,25 @@
  * }
  */
 class Solution {
-    List<Integer> sc=new ArrayList<>();
     public List<Integer> inorderTraversal(TreeNode root) {
-        if(root==null) return sc;
-        order(root);
+        List<Integer> sc=new ArrayList<>();
+        Stack<TreeNode> s=new Stack<>();
+
+        while(true){
+            if(root!=null){
+                s.push(root);
+                root=root.left;
+            }
+            else{
+                if(s.isEmpty()){
+                    break;
+                }
+                root=s.pop();
+                sc.add(root.val);
+                root=root.right;
+            }
+        }
 
         return sc;
-    }
-
-    void order(TreeNode root){
-        if(root==null) return ;
-
-        if(root.left!=null){
-             order(root.left);
-        }
-        sc.add(root.val);
-        if(root.right!=null){
-                order(root.right);
-        }
-            
     }
 }
