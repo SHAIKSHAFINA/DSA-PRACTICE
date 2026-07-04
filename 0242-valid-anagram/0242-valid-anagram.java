@@ -3,6 +3,8 @@ class Solution {
         int n=s.length();
         int m=t.length();
 
+        if(n!=m) return false;
+
         int freq[]=new int[26];
 
         for(char c:s.toCharArray()){
