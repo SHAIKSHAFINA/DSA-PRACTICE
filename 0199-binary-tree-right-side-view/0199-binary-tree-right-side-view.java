@@ -16,17 +16,25 @@
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
         List<Integer> sc=new ArrayList<>();
-        order(root,sc,0);
-        return sc;
+        Queue<TreeNode> q=new LinkedList<>();
+        if(root==null) return sc;
+        q.add(root);
 
-    }
-
-    void order(TreeNode root,List<Integer>sc,int l){
-        if(root==null) return;
-        if(sc.size()==l){
-            sc.add(root.val);
+        while(!q.isEmpty()){
+            int n=q.size();
+            TreeNode x=null;
+            while(n-->0){
+                x=q.poll();
+                if(x.left!=null){
+                    q.add(x.left);
+                }
+                if(x.right!=null){
+                    q.add(x.right);
+                }
+            }
+            sc.add(x.val);
         }
-        order(root.right,sc,l+1);
-        order(root.left,sc,l+1);
+
+        return sc;
     }
 }
