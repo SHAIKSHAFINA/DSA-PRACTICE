@@ -1,8 +1,12 @@
 class Solution {
     public String countAndSay(int n) {
-        if(n==1) return "1";
-        String prev=countAndSay(n-1);
-        return solve(prev);
+        String curr="1";
+
+        for(int i=2;i<=n;i++){
+            curr=solve(curr);
+        }
+        
+        return curr;
     }
 
     String solve(String s){
