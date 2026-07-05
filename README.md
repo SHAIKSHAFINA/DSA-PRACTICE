@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0282-expression-add-operators) |
 | [0392-is-subsequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0784-letter-case-permutation) |
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0543-diameter-of-binary-tree) |
@@ -856,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0404-sum-of-left-leaves) |
 | [0472-concatenated-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0543-diameter-of-binary-tree) |
@@ -880,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0543-diameter-of-binary-tree) |
