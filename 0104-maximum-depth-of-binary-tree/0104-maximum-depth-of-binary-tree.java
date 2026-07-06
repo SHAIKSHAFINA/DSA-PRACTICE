@@ -14,13 +14,41 @@
  * }
  */
 class Solution {
-    public int maxDepth(TreeNode root) {
-        if(root==null){
-            return 0;
+    class Pair{
+        TreeNode x;
+        int l;
+        Pair(TreeNode a,int b){
+            x=a;
+            l=b;
         }
-        int x=maxDepth(root.left);
-        int y=maxDepth(root.right);
+    }
+    public int maxDepth(TreeNode root) {
+        Queue<Pair> q=new LinkedList<>();
 
-        return 1+Math.max(x,y);
+        if(root==null) return 0;
+        q.add(new Pair(root,0));
+        int c=0;
+
+        while(!q.isEmpty()){
+
+            int size=q.size();
+            c++;
+
+            while(size-->0){
+                Pair p=q.poll();
+                TreeNode m=p.x;
+                int n=p.l;
+
+                if(m.left!=null){
+                    q.add(new Pair(m.left,n+1));
+                }
+
+                if(m.right!=null){
+                    q.add(new Pair(m.right,n+1));
+                }
+            }
+        }
+
+        return c;
     }
 }
