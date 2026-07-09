@@ -14,47 +14,17 @@
  * }
  */
 class Solution {
-    Queue<TreeNode> q=new LinkedList<>();
+    TreeNode prev=null;
     public void flatten(TreeNode root) {
         if(root==null) return;
-        solve(root);
-        if(q.size()==1) return;
-        while(!q.isEmpty()){
-            root.right=q.poll();
-            root=root.right;
-            root.left=null;
-        }
-    }
 
-    void solve(TreeNode root){
-        if(root==null){
-            return;
-        }
-        TreeNode curr=root;
-        while(curr!=null){
-            if(curr.left==null){
-                q.add(curr);
-                curr=curr.right;
-            }
-            else{
-                TreeNode l=curr.left;
+        flatten(root.right);
+        flatten(root.left);
 
-                while(l.right!=null && l.right!=curr){
-                   l=l.right;
-                }
+        root.right=prev;
+        root.left=null;
+        prev=root;
 
-                if(l.right==null){
-                    q.add(curr);
-                    l.right=curr;
-                    curr=curr.left;
-                }
-                else{
-                    l.right=null;
-                    curr=curr.right;
-                }
-            }
-        }
 
-       
     }
 }
