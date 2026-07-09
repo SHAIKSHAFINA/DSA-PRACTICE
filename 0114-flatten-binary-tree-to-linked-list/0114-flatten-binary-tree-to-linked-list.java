@@ -30,16 +30,31 @@ class Solution {
         if(root==null){
             return;
         }
+        TreeNode curr=root;
+        while(curr!=null){
+            if(curr.left==null){
+                q.add(curr);
+                curr=curr.right;
+            }
+            else{
+                TreeNode l=curr.left;
 
-        q.add(root);
+                while(l.right!=null && l.right!=curr){
+                   l=l.right;
+                }
 
-        if(root.left!=null){
-            solve(root.left);
+                if(l.right==null){
+                    q.add(curr);
+                    l.right=curr;
+                    curr=curr.left;
+                }
+                else{
+                    l.right=null;
+                    curr=curr.right;
+                }
+            }
         }
 
-         if(root.right!=null){
-            solve(root.right);
-        }
-
+       
     }
 }
