@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1048-longest-string-chain](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1048-longest-string-chain) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1106-parsing-a-boolean-expression](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1106-parsing-a-boolean-expression) |
 | [2104-sum-of-subarray-ranges](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
@@ -873,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
@@ -936,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -946,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Memoization
 |  |
 | ------- |
