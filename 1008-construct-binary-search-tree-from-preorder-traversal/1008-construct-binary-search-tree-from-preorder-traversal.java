@@ -14,21 +14,33 @@
  * }
  */
 class Solution {
-    int i=0;
+    int preIdx = 0;
     public TreeNode bstFromPreorder(int[] preorder) {
+        int[] in=preorder.clone();
+        Arrays.sort(preorder);
+
         int n=preorder.length;
-        return solve(preorder,Integer.MIN_VALUE,Integer.MAX_VALUE);
-    
+        return order(in,preorder,0,n-1);
+
     }
 
-    TreeNode  solve(int [] preorder,int min,int max){
-        if(i>=preorder.length) return null;
-        if(preorder[i]<min || preorder[i]>max){
+   TreeNode order(int[]pre,int[] in,int s,int e){
+        int j=0;
+        if(s>e){
             return null;
         }
-        TreeNode node=new TreeNode(preorder[i++]);
-        node.left= solve(preorder,min,node.val);
-        node.right= solve(preorder,node.val,max);
-        return node;
+        for(int i=s;i<=e;i++){
+            if(pre[preIdx]==in[i]){
+                j=i;
+                break;
+            }
+        }
+
+        TreeNode root=new TreeNode(pre[preIdx++]);
+
+        root.left=order(pre,in,s,j-1);
+        root.right=order(pre,in,j+1,e);
+
+        return root;
     }
 }
