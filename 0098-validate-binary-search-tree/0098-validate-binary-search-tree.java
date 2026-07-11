@@ -14,31 +14,18 @@
  * }
  */
 class Solution {
-    Stack<Integer> sc=new Stack<>();
     public boolean isValidBST(TreeNode root) {
-        solve(root);
-        
-        while(!sc.isEmpty()){
-            int x=sc.pop();
-            if(!sc.isEmpty() && x<=sc.peek()){
-                return false;
-            }
-        }
-
-        return true;
+        if(root==null) return true;
+        return valid(root,Long.MIN_VALUE,Long.MAX_VALUE);
     }
 
-    void solve(TreeNode root){
-        if(root==null) return;
-        if(root.left!=null){
-            solve(root.left);
+    boolean valid(TreeNode root,long min,long max){
+        if(root==null) return true;
+
+        if(root.val <=min || root.val>=max){
+            return false;
         }
 
-        sc.add(root.val);
-
-        if(root.right!=null){
-            solve(root.right);
-        }
-
+        return valid(root.left,min,root.val) && valid(root.right,root.val,max);
     }
 }
