@@ -14,29 +14,30 @@
  * }
  */
 class Solution {
-    Stack<Integer> s=new Stack<>();
+    int c=0,ans=0;
     public int kthSmallest(TreeNode root, int k) {
        if(root==null) return 0;
-       solve(root);
+       solve(root,k);
 
-       while(s.size()!=k){
-            s.pop();
-       }
-       return s.peek();
+       return ans;
     }
 
-    void solve(TreeNode root){
+    void solve(TreeNode root,int k){
         if(root==null){
             return;
         }
 
         if(root.left!=null){
-            solve(root.left);
+            solve(root.left,k);
         }
-        s.add(root.val);
+       c++;
+       if(c==k){
+            ans=root.val;
+            return;
+       }
 
         if(root.right!=null){
-            solve(root.right);
+            solve(root.right,k);
         }
         return;
     }
