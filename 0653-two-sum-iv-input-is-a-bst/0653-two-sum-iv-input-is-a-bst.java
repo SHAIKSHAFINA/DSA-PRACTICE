@@ -13,36 +13,63 @@
  *     }
  * }
  */
-class Solution {
-    ArrayList<Integer> sc=new ArrayList<>();
-    public boolean findTarget(TreeNode root, int k) {
-        solve(root);
-        HashSet<Integer> mp=new HashSet<>();
 
-        for(int i=0;i<sc.size();i++){
-            int target=k-sc.get(i);
-            if(mp.contains(target)){
-                return true;
+ class BSTIterator {
+    Stack<TreeNode> st=new Stack<>();
+    boolean reverse=true;
+
+    public BSTIterator(TreeNode root , boolean isReverse) {
+        reverse=isReverse;
+        pushAll(root);
+    }
+    
+    public int next() {
+        TreeNode temp=st.pop();
+        if(reverse){
+            pushAll(temp.left);
+        }
+        else{
+            pushAll(temp.right);
+        }
+        return temp.val;
+    }
+    
+    public boolean hasNext() {
+        return !st.isEmpty();
+    }
+
+    void pushAll(TreeNode root){
+        while(root!=null){
+            st.push(root);
+            if(reverse){
+                root=root.right;
             }
-            mp.add(sc.get(i));
+            else{
+                root=root.left;
+            }
+        }
+    }
+}
+class Solution {
+    public boolean findTarget(TreeNode root, int k) {
+        if(root==null) return false;
+        BSTIterator l=new BSTIterator(root,false);
+        BSTIterator r=new BSTIterator(root,true);
+
+        int i=l.next();
+        int j=r.next();
+
+        while(i<j){
+            int t=i+j;
+            if(t==k) return true;
+            if(t>k){
+                j=r.next();
+            }
+            else{
+                i=l.next();
+            }
         }
 
         return false;
-
-    }
-
-    void solve(TreeNode root){
-        if(root==null) return;
-
-        if(root.left!=null){
-            solve(root.left);
-        }
-
-        sc.add(root.val);
-
-        if(root.right!=null){
-            solve(root.right);
-        }
-
     }
 }
