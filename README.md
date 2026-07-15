@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0355-design-twitter) |
+| [0387-first-unique-character-in-a-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0496-next-greater-element-i) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0992-subarrays-with-k-different-integers) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0459-repeated-substring-pattern) |
@@ -786,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Stack
 |  |
