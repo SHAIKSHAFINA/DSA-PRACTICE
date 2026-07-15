@@ -1,18 +1,18 @@
 class Solution {
     public void reverseString(char[] s) {
         int n=s.length;
-        ArrayList<Character> sc=new ArrayList<>();
-
-        for(int i=0;i<n;i++){
-            sc.add(s[i]);
-        }
-        
-        Collections.reverse(sc);
-        for(int i=0;i<n;i++){
-            s[i]=sc.get(i);
-        }
+        swap(0,n-1,s);
         return;
+    }
 
-       
+    void swap(int i,int j,char[] s){
+        if(i>s.length/2) return;
+        while(i<j){
+            char temp=s[i];
+            s[i]=s[j];
+            s[j]=temp;
+            i++;
+            j--;
+        }
     }
 }
