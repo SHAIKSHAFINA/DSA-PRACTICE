@@ -1,45 +1,27 @@
 class Solution {
     public String reverseVowels(String s) {
         int n=s.length();
-
-        //int a[]={'a','e','i','o','u','A','E','I','O','U'};
         char arr[]=s.toCharArray();
-        HashSet<Character> sc=new HashSet<>();
-        sc.add('a');
-        sc.add('e');
-        sc.add('i');
-        sc.add('o');
-        sc.add('u');
-        sc.add('A');
-        sc.add('E');
-        sc.add('I');
-        sc.add('O');
-        sc.add('U');
-
         int l=0,r=n-1;
 
-        while(l<=r){
-            if(sc.contains(arr[l]) && sc.contains(arr[r])){
+        while(l<r){
+
+            while(l<r && !isVowel(arr[l])) l++;
+            while(l<r && !isVowel(arr[r])) r--;
+
+            if(isVowel(arr[l]) && isVowel(arr[r])){
                 char temp=arr[l];
                 arr[l]=arr[r];
                 arr[r]=temp;
                 l++;
                 r--;
             }
-            else if(sc.contains(s.charAt(l))){
-                r--;
-            }
-            else{
-                l++;
-            }
         }
 
-        StringBuilder sb=new StringBuilder();
+        return new String(arr);
+    }
 
-        for(char x:arr){
-            sb.append(x);
-        }
-
-        return sb.toString();
+    boolean isVowel(char c){
+        return c=='a'|| c=='e'||c=='i'|| c=='o' || c=='u' || c=='A'||c=='E'||c=='I'||c=='O'|| c=='U';
     }
 }
