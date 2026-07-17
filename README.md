@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-check-if-grid-satisfies-conditions](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2540-minimum-common-value) |
 | [2594-minimum-time-to-repair-cars](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2594-minimum-time-to-repair-cars) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Matrix
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1922-count-good-numbers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2338-count-the-number-of-ideal-arrays) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -471,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2404-most-frequent-even-element](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2404-most-frequent-even-element) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Combinatorics
@@ -478,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0062-unique-paths) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2338-count-the-number-of-ideal-arrays) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 ## Union Find
 |  |
 | ------- |
@@ -612,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2574-left-and-right-sum-differences) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -771,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0204-count-primes) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2338-count-the-number-of-ideal-arrays) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3658-gcd-of-odd-and-even-sums) |
