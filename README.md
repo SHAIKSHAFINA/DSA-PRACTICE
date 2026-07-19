@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0796-rotate-string) |
 | [1048-longest-string-chain](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1048-longest-string-chain) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1143-longest-common-subsequence) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0738-monotone-increasing-digits) |
 | [0846-hand-of-straights](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0860-lemonade-change) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1106-parsing-a-boolean-expression) |
 | [2104-sum-of-subarray-ranges](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -818,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
