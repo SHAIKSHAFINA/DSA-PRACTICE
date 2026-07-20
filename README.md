@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1048-longest-string-chain) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1260-shift-2d-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1301-number-of-paths-with-max-score](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1331-rank-transform-of-an-array) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0733-flood-fill) |
+| [1260-shift-2d-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1301-number-of-paths-with-max-score) |
 | [1861-rotating-the-box](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2161-partition-array-according-to-given-pivot) |
