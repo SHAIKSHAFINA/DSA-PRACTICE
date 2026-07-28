@@ -4,9 +4,9 @@ class Solution {
         HashMap<Integer,Integer> mp=new HashMap<>();
 
         for(int i=0;i<n;i++){
-            int f=target-nums[i];
-            if(mp.containsKey(f)){
-                return new int[]{mp.get(f),i};
+            int x=target-nums[i];
+            if(mp.containsKey(x)){
+                return new int[]{i,mp.get(x)};
             }
             mp.put(nums[i],i);
         }
