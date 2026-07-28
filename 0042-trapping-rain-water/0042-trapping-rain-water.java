@@ -1,28 +1,28 @@
 class Solution {
-    public int trap(int[] arr) {
-        int n=arr.length;
-        int lmax=0,rmax=n-1,max=0,ans=0;
+    public int trap(int[] height) {
+        int n=height.length;
+        int sum=0,lmax=0,rmax=n-1,max=0;
 
         for(int i=0;i<n;i++){
-            if(arr[i]>arr[max]){
-                max=i;
-            }
+           if(height[max]<height[i]){
+             max=i;
+           }
         }
 
         for(int i=0;i<max;i++){
-            if(arr[i]>arr[lmax]){
+            if(height[i]>height[lmax]){
                 lmax=i;
             }
-            ans+=arr[lmax]-arr[i];
+            sum+=height[lmax]-height[i];
         }
 
-         for(int i=n-2;i>max;i--){
-            if(arr[i]>arr[rmax]){
+        for(int i=n-2;i>max;i--){
+            if(height[i]>height[rmax]){
                 rmax=i;
             }
-            ans+=arr[rmax]-arr[i];
+            sum+=height[rmax]-height[i];
         }
+        return sum;
 
-        return ans;
     }
 }
