@@ -1,59 +1,54 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
-        ArrayList<Integer> ns=nse(heights);
-        ArrayList<Integer> ps=pse(heights);
-        int max=0;
         int n=heights.length;
-        if(n==1) return heights[0];
+        int[]next=nse(heights,n);
+        int[]prev=nge(heights,n);
+        int max=Integer.MIN_VALUE;
 
         for(int i=0;i<n;i++){
-            int left=ps.get(i);
-            int right=ns.get(i);
-            int ans=(right-left-1) * heights[i];
-            max=Math.max(max,ans);
-
+            int width=prev[i]-next[i]-1;
+            int area=width*heights[i];
+            max=Math.max(max,area);
         }
         return max;
     }
 
-    ArrayList<Integer> nse(int[]a){
-        int n=a.length;
+    int[] nse(int arr[],int n){
         Stack<Integer> st=new Stack<>();
-        ArrayList<Integer>sc=new ArrayList<>();
-
-        for(int i=n-1;i>=0;i--){
-            while(!st.isEmpty() && a[st.peek()]>=a[i]){
-                st.pop();
-            }
-            if(st.isEmpty()){
-                sc.add(n);
-            }
-            else{
-                sc.add(st.peek());
-            }
-            st.push(i);
-        }
-        Collections.reverse(sc);
-        return sc;
-    }
-
-     ArrayList<Integer> pse(int[]a){
-        int n=a.length;
-        Stack<Integer> st=new Stack<>();
-        ArrayList<Integer>sc=new ArrayList<>();
+        int a[]=new int [n];
 
         for(int i=0;i<n;i++){
-            while(!st.isEmpty() && a[st.peek()]>=a[i]){
+            while(!st.isEmpty() && arr[st.peek()]>=arr[i]){
                 st.pop();
             }
-            if(st.isEmpty()){
-                sc.add(-1);
+            if(!st.isEmpty()){
+                a[i]=st.peek();
             }
             else{
-                sc.add(st.peek());
+                a[i]=-1;
             }
             st.push(i);
         }
-        return sc;
+        return a;
+    }
+
+    int[] nge(int arr[],int n){
+        Stack<Integer> st=new Stack<>();
+        int a[]=new int [n];
+
+        for(int i=n-1;i>=0;i--){
+            while(!st.isEmpty() && arr[st.peek()]>=arr[i]){
+                st.pop();
+            }
+    
+            if(!st.isEmpty()){
+                a[i]=st.peek();
+            }
+            else{
+                a[i]=n;
+            }
+            st.push(i);
+        }
+        return a;
     }
 }
