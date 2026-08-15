@@ -36,8 +36,6 @@ class Solution {
     void bfs(int[][] mat,int n,int m,boolean vis[][],int a[][],Queue<Pair> q){
 
         while(!q.isEmpty()){
-            int size=q.size();
-            while(size-->0){
                 Pair p=q.poll();
                 int x=p.i;
                 int y=p.j;
@@ -55,7 +53,7 @@ class Solution {
                         q.add(new Pair(nr,nc));
                     }
                 }
-            }
+            
         }
         
     }
