@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3477-fruits-into-baskets-ii) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
