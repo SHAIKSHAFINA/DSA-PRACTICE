@@ -12,13 +12,11 @@ class Solution {
         int n=board.length;
         int m=board[0].length;
         int c=0;
-        boolean vis[][]=new boolean[n][m];
 
         Queue<Pair> q=new LinkedList<>();
        for(int i=0;i<n;i++){
         for(int j=0;j<m;j++){
             if((i==0 || i==n-1 || j==0 || j==m-1) && board[i][j]==1){
-                vis[i][j]=true;
                 board[i][j]=0;
                 q.add(new Pair(i,j));
             }
@@ -40,9 +38,8 @@ class Solution {
 
                         if(nr<0 || nr>=n || nc<0 || nc>=m) continue;
 
-                        if(board[nr][nc]==1 && !vis[nr][nc]){
+                        if(board[nr][nc]==1){
                             board[nr][nc]=0;
-                             vis[nr][nc]=true;
                             q.add(new Pair(nr,nc));
                         }
                     }
