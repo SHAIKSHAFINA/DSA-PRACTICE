@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1048-longest-string-chain) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1301-number-of-paths-with-max-score) |
 | [1765-map-of-highest-peak](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1765-map-of-highest-peak) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1020-number-of-enclaves) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1345-jump-game-iv](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1345-jump-game-iv) |
 | [1765-map-of-highest-peak](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1765-map-of-highest-peak) |
@@ -1038,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1020-number-of-enclaves) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1133,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Indexed Tree
