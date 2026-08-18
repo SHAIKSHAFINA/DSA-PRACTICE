@@ -1,0 +1,62 @@
+class Solution {
+    class Pair{
+        int i;
+        int j;
+
+        Pair(int a,int b){
+            i=a;
+            j=b;
+        }
+    }
+    public void solve(char[][] board) {
+        int n=board.length;
+        int m=board[0].length;
+        boolean vis[][]=new boolean[n][m];
+
+        Queue<Pair> q=new LinkedList<>();
+       for(int i=0;i<n;i++){
+        for(int j=0;j<m;j++){
+            if((i==0 || i==n-1 || j==0 || j==m-1) && (board[i][j]=='O')){
+
+                q.add(new Pair(i,j));
+                vis[i][j]=true;
+            }
+        }
+       }
+
+            while(!q.isEmpty()){
+                Pair p=q.poll();
+                int x=p.i;
+                int y=p.j;
+
+                        
+                int dr[]={-1,1,0,0};
+                int dc[]={0,0,-1,1};
+
+                    for(int k=0;k<4;k++){
+                        int nr=dr[k]+x;
+                        int nc=dc[k]+y;
+
+                        if(nr<0 || nr>=n || nc<0 || nc>=m) continue;
+
+                        if(!vis[nr][nc] && board[nr][nc]=='O'){
+                            vis[nr][nc]=true;
+                            board[nr][nc]='P';
+                            q.add(new Pair(nr,nc));
+                        }
+                    }
+                }
+
+            for(int i=0;i<n;i++){
+                for(int j=0;j<m;j++){
+                    if(board[i][j]=='O'&& !vis[i][j]){
+                        board[i][j]='X';
+                    }
+                    else if(board[i][j]=='P'){
+                        board[i][j]='O';
+                    }
+                }
+            }
+            
+    }
+}
