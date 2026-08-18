@@ -11,15 +11,14 @@ class Solution {
     public void solve(char[][] board) {
         int n=board.length;
         int m=board[0].length;
-        boolean vis[][]=new boolean[n][m];
+        //boolean vis[][]=new boolean[n][m];
 
         Queue<Pair> q=new LinkedList<>();
        for(int i=0;i<n;i++){
         for(int j=0;j<m;j++){
-            if((i==0 || i==n-1 || j==0 || j==m-1) && (board[i][j]=='O')){
-
+            if((i==0 || i==n-1 || j==0 || j==m-1) && board[i][j]=='O'){
+                board[i][j]='P';
                 q.add(new Pair(i,j));
-                vis[i][j]=true;
             }
         }
        }
@@ -39,8 +38,8 @@ class Solution {
 
                         if(nr<0 || nr>=n || nc<0 || nc>=m) continue;
 
-                        if(!vis[nr][nc] && board[nr][nc]=='O'){
-                            vis[nr][nc]=true;
+                        if(board[nr][nc]=='O'){
+                            // vis[nr][nc]=true;
                             board[nr][nc]='P';
                             q.add(new Pair(nr,nc));
                         }
@@ -49,7 +48,7 @@ class Solution {
 
             for(int i=0;i<n;i++){
                 for(int j=0;j<m;j++){
-                    if(board[i][j]=='O'&& !vis[i][j]){
+                    if(board[i][j]=='O'){
                         board[i][j]='X';
                     }
                     else if(board[i][j]=='P'){
