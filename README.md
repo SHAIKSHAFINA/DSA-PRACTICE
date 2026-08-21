@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2784-check-if-array-is-good) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2540-minimum-common-value) |
 | [2594-minimum-time-to-repair-cars](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2594-minimum-time-to-repair-cars) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3477-fruits-into-baskets-ii) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1922-count-good-numbers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2338-count-the-number-of-ideal-arrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0062-unique-paths) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2338-count-the-number-of-ideal-arrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 ## Union Find
 |  |
@@ -815,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0784-letter-case-permutation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -852,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0204-count-primes) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2338-count-the-number-of-ideal-arrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
