@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0139-word-break) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0087-scramble-string) |
+| [0127-word-ladder](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0139-word-break) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0127-word-ladder](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0200-number-of-islands) |
@@ -1200,4 +1203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1757-recyclable-and-low-fat-products) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
