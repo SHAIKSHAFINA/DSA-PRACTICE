@@ -6,6 +6,7 @@ class Solution {
 
         for(int i=0;i<n;i++){
             if(a[i]==-1){
+                a[i]=0;
                 if(isCheck(i,graph,a)==false){
                     return false;
                 }
@@ -16,21 +17,14 @@ class Solution {
     }
 
     boolean isCheck(int node,int graph[][],int a[]){
-        Queue<Integer> q=new LinkedList<>();
-        q.add(node);
-        a[node]=0;
 
-        while(!q.isEmpty()){
-            int x=q.poll();
-
-            for(int t:graph[x]){
-                if(a[t]==-1){
-                    a[t]=1-a[x];
-                    q.add(t);
-                }
-                else if(a[t]==a[x]){
-                    return false;
-                }
+        for(int t:graph[node]){
+            if(a[t]==-1){
+                a[t]=1-a[node];
+                if(isCheck(t,graph,a)==false) return false;
+            }
+            else if(a[t]==a[node]){
+                return false;
             }
         }
 
