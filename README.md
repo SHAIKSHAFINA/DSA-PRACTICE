@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1922-count-good-numbers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1927-sum-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1540-can-convert-string-in-k-moves](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1540-can-convert-string-in-k-moves) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1927-sum-game](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1927-sum-game](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1927-sum-game) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2126-destroying-asteroids](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2126-destroying-asteroids) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -1231,4 +1234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0886-possible-bipartition) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
