@@ -10,7 +10,7 @@ class Solution {
             int u=e[0];
             int v=e[1];
             
-            sc.get(u).add(v);
+            sc.get(v).add(u);
         }
         
         int [] indegree=new int[V];
@@ -21,34 +21,26 @@ class Solution {
         }
         
         
-       ArrayList<Integer> ans=new ArrayList<>();
+      
        Queue<Integer> q=new LinkedList<>();
+       int a[]=new int[V];
+       int k=0;
 
         for(int i=0;i<V;i++){
             if(indegree[i]==0){
                 q.add(i); 
-                ans.add(i);
+                a[k++]=i;
             }
         }
 
-        bfs(q,sc,indegree,ans);
-        
-        int a[]=new int[ans.size()];
-        int k=0;
-
-       for(int i=ans.size()-1;i>=0;i--){
-            a[k]=ans.get(i);
-            k++;
-       }
-        
-        if(V==a.length) return a;
-
-        return new int[]{};
+        int x=bfs(q,sc,indegree,a,k);
+        if(V!=x) return new int[]{};
+        return a;
 
     }
 
-    void bfs(Queue<Integer> q,
-        ArrayList<ArrayList<Integer>> sc,int indegree[],ArrayList<Integer>ans){
+    int bfs(Queue<Integer> q,
+        ArrayList<ArrayList<Integer>> sc,int indegree[],int a[],int k){
 
         while(!q.isEmpty()){
             int x=q.poll();
@@ -56,9 +48,11 @@ class Solution {
                 indegree[it]--;
                 if(indegree[it]==0){
                     q.add(it);
-                    ans.add(it);
+                    a[k++]=it;
                 }
             }
         }
+
+        return k;
     }
 }
