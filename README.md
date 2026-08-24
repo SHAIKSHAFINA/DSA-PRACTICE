@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1872-stone-game-viii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1872-stone-game-viii) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1765-map-of-highest-peak) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1861-rotating-the-box](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1872-stone-game-viii) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2047-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1872-stone-game-viii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1872-stone-game-viii) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1922-count-good-numbers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1927-sum-game) |
@@ -703,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -1249,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1927-sum-game) |
 ## Kosaraju's Algorithm
 |  |
@@ -1262,4 +1267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0207-course-schedule) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
