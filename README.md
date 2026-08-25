@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3660-jump-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3838-weighted-word-mapping) |
 | [3861-minimum-capacity-box](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3861-minimum-capacity-box) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
