@@ -1,51 +1,54 @@
 class Solution {
     public List<Integer> eventualSafeNodes(int[][] graph) {
         ArrayList<ArrayList<Integer>> sc=new ArrayList<>();
-        List<Integer> ans=new ArrayList<>();
         int V=graph.length;
-        
-        boolean vis[]=new boolean[V];
-        boolean path[]=new boolean[V];
-        int check[]=new int[V];
-        
+
         for(int i=0;i<V;i++){
-            if(!vis[i]){
-                dfs(i,graph,vis,path,check);
+            sc.add(new ArrayList<>());
+        }
+
+        for(int u=0;u<V;u++){
+            for(int v:graph[u]){
+                sc.get(v).add(u);
+            }   
+        }
+
+
+        int [] indegree=new int[V];
+        for(int i=0;i<V;i++){
+            indegree[i]=graph[i].length;
+        }
+       
+       
+       Queue<Integer> q=new LinkedList<>();
+       ArrayList<Integer> a=new ArrayList<>();
+
+        for(int i=0;i<V;i++){
+            if(indegree[i]==0){
+                q.add(i);
+                a.add(i);
             }
         }
 
-        for(int i=0;i<V;i++){
-            if(check[i]==1){
-                ans.add(i);
-            }
-        }
-        
-        return ans;
+        bfs(q,sc,indegree,a);
+        Collections.sort(a);
+        return a;
     }
 
-    boolean dfs(int node,int[][] graph,boolean vis[],boolean path[],int check[]){
-        
-        vis[node]=true;
-        path[node]=true;
-        check[node]=0;
-        for(int x:graph[node]){
-            if(!vis[x]){
-                
-                if(dfs(x,graph,vis,path,check)==true){
-                    check[node]=0;
-                    return true;
+
+    void bfs(Queue<Integer> q,
+        ArrayList<ArrayList<Integer>> sc,int indegree[],ArrayList<Integer> a){
+
+        while(!q.isEmpty()){
+            int x=q.poll();
+            for(int it:sc.get(x)){
+                indegree[it]--;
+                if(indegree[it]==0){
+                    q.add(it);
+                    a.add(it);
                 }
-                
-            }
-            else if(path[x]){
-                check[node]=0;
-                return true;
             }
         }
-        check[node]=1;
-        path[node]=false;
-        
-        return false;
-        
+        return;
     }
 }
