@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1048-longest-string-chain) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1301-number-of-paths-with-max-score) |
 | [1765-map-of-highest-peak](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1765-map-of-highest-peak) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1020-number-of-enclaves) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1345-jump-game-iv](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1345-jump-game-iv) |
 | [1765-map-of-highest-peak](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1765-map-of-highest-peak) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
