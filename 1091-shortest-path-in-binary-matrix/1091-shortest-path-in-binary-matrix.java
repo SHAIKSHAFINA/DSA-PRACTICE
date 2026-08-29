@@ -16,8 +16,7 @@ class Solution {
 
         int dr[]={-1, -1, -1, 0, 1, 1, 1, 0};
         int dc[]={-1, 0, 1, 1, 1, 0, -1, -1};
-        boolean vis[][]=new boolean[n][n];
-        vis[0][0]=true;
+        
         int[][] ar=new int[n][n];
         for(int i=0;i<n;i++){
             Arrays.fill(ar[i],Integer.MAX_VALUE);
@@ -36,9 +35,8 @@ class Solution {
                 int c=b+dc[k];
 
                 if(r<0 || c<0 || r>=n || c>=n) continue;
-                if(!vis[r][c] && grid[r][c]==0){
+                if(ar[r][c]== Integer.MAX_VALUE && grid[r][c]==0){
                     q.add(new Pair(r,c));
-                    vis[r][c]=true;
                     ar[r][c]=Math.min(ar[r][c],ar[a][b]+1);
                 }
             }
