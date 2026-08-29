@@ -37,7 +37,7 @@ class Solution {
                 if(r<0 || c<0 || r>=n || c>=n) continue;
                 if(ar[r][c]== Integer.MAX_VALUE && grid[r][c]==0){
                     q.add(new Pair(r,c));
-                    ar[r][c]=Math.min(ar[r][c],ar[a][b]+1);
+                    ar[r][c] = ar[a][b] + 1;
                 }
             }
         }
