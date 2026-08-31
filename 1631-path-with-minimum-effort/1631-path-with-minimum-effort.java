@@ -1,75 +1,56 @@
 class Solution {
     class Pair{
-        int a;
-        int b;
+        int i;
+        int j;
+        int k;
 
-        Pair(int u,int v){
-            a=u;
-            b=v;
+        Pair(int a,int b,int c){
+            i=a;
+            j=b;
+            k=c;
         }
     }
     public int minimumEffortPath(int[][] heights) {
         int n=heights.length;
         int m=heights[0].length;
-        int min=Integer.MAX_VALUE;
-        int max=Integer.MIN_VALUE;
 
-
+        int a[][]= new int[n][m];
         for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                min=Math.min(min,heights[i][j]);
-                max=Math.max(max,heights[i][j]);
-
-            }
+            Arrays.fill(a[i],Integer.MAX_VALUE);
         }
-        int l=0,r=max-min;
-
-        while(l<r){
-            int mid=l+(r-l)/2;
-            if(solve(heights,mid,n,m)){
-                r=mid;
-            }
-                
-            else{
-                l=mid+1;
-            }
-        }
-
-        return l;
-    }
-
-    boolean solve(int[][] heights,int mid,int n,int m){
-        Queue<Pair> pq = new ArrayDeque<>();
-        boolean vis[][]=new boolean[n][m];
-        vis[0][0]=true;
-
-        pq.add(new Pair(0,0));
-
+        a[0][0]=0;
+        
         int dr[]={-1,1,0,0};
         int dc[]={0,0,-1,1};
 
+        PriorityQueue<Pair> pq=new PriorityQueue<>((c,b)->c.k-b.k);
+        pq.add(new Pair(0,0,0));
 
         while(!pq.isEmpty()){
             Pair p=pq.poll();
-            int x=p.a;
-            int y=p.b;
+            int x=p.i;
+            int y=p.j;
+            int z=p.k;
+
+            if(z!=a[x][y]) continue;
+
+            if(x==n-1 && y==m-1) return z;
 
             for(int k=0;k<4;k++){
                 int r=dr[k]+x;
                 int c=dc[k]+y;
 
-                if(r<0 || c<0 || r>=n || c>=m) continue;
+                if(r>=0 && c>=0 && r<n && c<m){
+                    int dist=Math.max(Math.abs(heights[r][c]-heights[x][y]),z);
+                    if(dist < a[r][c]){
+                        a[r][c]=dist;
+                        pq.add(new Pair(r,c,dist));
+                    }
 
-                if(!vis[r][c] && (Math.abs(heights[x][y]-heights[r][c]) <= mid)){
-                    vis[r][c]=true;
-                    pq.add(new Pair(r,c));
-                    if(r==n-1 && c==m-1) return true;
                 }
-
             }
         }
 
-            return false;
-
+        return 0;
     }
 }
