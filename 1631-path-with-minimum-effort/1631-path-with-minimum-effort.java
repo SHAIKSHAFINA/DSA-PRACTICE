@@ -39,7 +39,7 @@ class Solution {
     }
 
     boolean solve(int[][] heights,int mid,int n,int m){
-        Queue<Pair> pq=new LinkedList<>();
+        Queue<Pair> pq = new ArrayDeque<>();
         boolean vis[][]=new boolean[n][m];
         vis[0][0]=true;
 
