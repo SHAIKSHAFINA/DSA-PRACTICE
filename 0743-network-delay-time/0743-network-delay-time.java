@@ -36,6 +36,8 @@ class Solution {
             int idx=p.node;
             int t=p.time;
 
+            if(t > a[idx]) continue;
+
                 for(Pair x:adj.get(idx)){
                     int i=x.node;
                     int j=x.time;
