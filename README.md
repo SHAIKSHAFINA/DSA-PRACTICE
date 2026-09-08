@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1872-stone-game-viii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1872-stone-game-viii) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1196,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0886-possible-bipartition) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1248,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -1256,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3620-network-recovery-pathways) |
 ## Iterator
 |  |
@@ -1322,4 +1326,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
