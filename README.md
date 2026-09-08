@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0788-rotated-digits) |
 | [0887-super-egg-drop](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0887-super-egg-drop) |
 | [0907-sum-of-subarray-minimums](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
+| [0940-distinct-subsequences-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1143-longest-common-subsequence) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0692-top-k-frequent-words) |
 | [0784-letter-case-permutation](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1092-shortest-common-supersequence) |
