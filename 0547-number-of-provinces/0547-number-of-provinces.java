@@ -1,29 +1,60 @@
-class Solution {
-    int c=0;
-    public int findCircleNum(int[][] isConnected) {
-        int n=isConnected.length;
-        ArrayList<Integer> sc=new ArrayList<>();
-        boolean []vis=new boolean[n];
+class dsu{
+    int parent[];
+    int rank[];
+    int size[];
+
+    dsu(int n){
+        parent=new int[n+1];
+        rank=new int[n+1];
+        size=new int[n+1];
 
         for(int i=0;i<n;i++){
-            if(!vis[i]){
-                c++;
-                solve(i,sc,vis,isConnected,n);
+            parent[i]=i;
+            rank[i]=0;
+            size[i]=1;
+        }
+    }
+
+    int findParent(int node){
+        if(node==parent[node]) return node;
+        return parent[node]=findParent(parent[node]);
+    }
+
+    void unionBySize(int u,int v){
+        int pu=findParent(u);
+        int pv=findParent(v);
+
+        if(pu==pv) return;
+
+        if(size[pu]<size[pv]){
+            parent[pu]=pv;
+            size[pv]+=size[pu];
+        }
+        else{
+            parent[pv]=pu;
+            size[pu]+=size[pv];
+        }
+    }
+}
+
+class Solution {
+    public int findCircleNum(int[][] isConnected) {
+       int n=isConnected.length;
+       int c=n;
+       dsu ds=new dsu(n);
+
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+            
+                if(isConnected[i][j]==1){
+                    
+                    if(ds.findParent(i)!=ds.findParent(j)){
+                        ds.unionBySize(i,j);
+                        c--;
+                    }
+                }
             }
         }
         return c;
-
-    }
-
-    void solve(int node,ArrayList<Integer>sc,boolean [] vis,int[][] isConnected,int n){
-
-        vis[node]=true;
-        sc.add(node);
-
-       for(int j=0;j<n;j++){
-            if(isConnected[node][j]==1 && !vis[j]){
-                solve(j,sc,vis,isConnected,n);
-            }
-        }
     }
 }
