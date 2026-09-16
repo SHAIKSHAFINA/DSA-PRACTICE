@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0706-design-hashmap) |
+| [0721-accounts-merge](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0721-accounts-merge) |
 | [0784-letter-case-permutation](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0940-distinct-subsequences-ii) |
@@ -676,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
@@ -1110,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
@@ -1227,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1020-number-of-enclaves) |
