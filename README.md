@@ -636,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -981,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2553-separate-the-digits-in-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3477-fruits-into-baskets-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
