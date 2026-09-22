@@ -42,21 +42,20 @@ class dsu{
 class Solution {
     public int removeStones(int[][] stones) {
         int n=stones.length;
-        int s[][]=new int[n][n];
-        dsu ds=new dsu(n*n);
+        int offset=10001;
+        dsu ds=new dsu(20002);
 
-        for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                if(stones[i][0]==stones[j][0] || stones[i][1]==stones[j][1]){
-                    ds.UnionBySize(i,j);
-                }
-            }
+        for(int e[]:stones){
+            int row=e[0];
+            int col=e[1]+offset;
+            ds.UnionBySize(row,col);
         }
         
         HashSet<Integer> mp=new HashSet<>();
 
-        for(int i=0;i<n;i++){
-            mp.add(ds.findParent(i));
+        for(int e[]:stones){
+            int row=e[0];
+            mp.add(ds.findParent(row));
         }
 
         return n-mp.size();
