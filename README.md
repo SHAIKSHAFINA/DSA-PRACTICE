@@ -1389,4 +1389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1192-critical-connections-in-a-network) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
