@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1861-rotating-the-box](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1861-rotating-the-box) |
 | [1872-stone-game-viii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1882-process-tasks-using-servers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2047-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -1019,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1631-path-with-minimum-effort) |
+| [1882-process-tasks-using-servers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1882-process-tasks-using-servers) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3620-network-recovery-pathways](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3620-network-recovery-pathways) |
