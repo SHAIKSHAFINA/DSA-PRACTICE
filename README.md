@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1267-count-servers-that-communicate) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1301-number-of-paths-with-max-score](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1331-rank-transform-of-an-array) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1765-map-of-highest-peak) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2404-most-frequent-even-element](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2404-most-frequent-even-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -719,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1020-number-of-enclaves) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1345-jump-game-iv](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1345-jump-game-iv) |
 | [1631-path-with-minimum-effort](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1631-path-with-minimum-effort) |
@@ -1160,6 +1164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1020-number-of-enclaves) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1192-critical-connections-in-a-network](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1192-critical-connections-in-a-network) |
+| [1267-count-servers-that-communicate](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1631-path-with-minimum-effort) |
@@ -1276,6 +1281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
