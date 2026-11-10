@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3660-jump-game-ix) |
+| [3693-climbing-stairs-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3660-jump-game-ix) |
+| [3693-climbing-stairs-ii](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/3737-count-subarrays-with-majority-element-i) |
