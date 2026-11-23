@@ -1427,4 +1427,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0022-generate-parentheses) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SHAIKSHAFINA/DSA-PRACTICE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
